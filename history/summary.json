@@ -4,18 +4,19 @@
     "url": "https://www.hjstrauss.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.hjstrauss.de.ico",
     "slug": "hj-strauss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
     "time": 812,
     "timeDay": 471,
     "timeWeek": 834,
-    "timeMonth": 812,
+    "timeMonth": 815,
     "timeYear": 812,
     "dailyMinutesDown": {
+      "2024-02-18": 0,
       "2024-01-22": 61,
       "2024-01-21": 5
     }
@@ -34,7 +35,7 @@
     "time": 1819,
     "timeDay": 1215,
     "timeWeek": 2132,
-    "timeMonth": 1819,
+    "timeMonth": 1828,
     "timeYear": 1819,
     "dailyMinutesDown": {
       "2024-01-22": 61,
@@ -55,7 +56,7 @@
     "time": 1136,
     "timeDay": 839,
     "timeWeek": 1058,
-    "timeMonth": 1136,
+    "timeMonth": 1125,
     "timeYear": 1136,
     "dailyMinutesDown": {
       "2024-01-22": 61,
@@ -76,7 +77,7 @@
     "time": 1081,
     "timeDay": 876,
     "timeWeek": 969,
-    "timeMonth": 1081,
+    "timeMonth": 1082,
     "timeYear": 1081,
     "dailyMinutesDown": {
       "2024-01-22": 61,
