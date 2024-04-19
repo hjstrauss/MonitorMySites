@@ -4,19 +4,19 @@
     "url": "https://www.hjstrauss.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.hjstrauss.de.ico",
     "slug": "hj-strauss",
-    "status": "up",
-    "uptime": "98.03%",
-    "uptimeDay": "92.52%",
-    "uptimeWeek": "91.53%",
-    "uptimeMonth": "94.01%",
-    "uptimeYear": "98.03%",
+    "status": "down",
+    "uptime": "98.05%",
+    "uptimeDay": "92.65%",
+    "uptimeWeek": "91.51%",
+    "uptimeMonth": "94.09%",
+    "uptimeYear": "98.05%",
     "time": 731,
     "timeDay": 715,
     "timeWeek": 729,
     "timeMonth": 724,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2024-04-19": 74,
+      "2024-04-19": 76,
       "2024-04-18": 157,
       "2024-04-17": 75,
       "2024-04-16": 131,
@@ -34,7 +34,7 @@
       "2024-04-04": 163,
       "2024-04-03": 282,
       "2024-04-02": 64,
-      "2024-04-01": 149
+      "2024-04-01": 113
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://www.reimeohnesinnundverstand.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.reimeohnesinnundverstand.de.ico",
     "slug": "reime-ohne-sinn-und-verstand",
-    "status": "up",
-    "uptime": "98.06%",
-    "uptimeDay": "92.65%",
-    "uptimeWeek": "91.68%",
-    "uptimeMonth": "94.11%",
-    "uptimeYear": "98.06%",
+    "status": "down",
+    "uptime": "98.09%",
+    "uptimeDay": "92.78%",
+    "uptimeWeek": "91.67%",
+    "uptimeMonth": "94.19%",
+    "uptimeYear": "98.09%",
     "time": 1421,
     "timeDay": 1501,
     "timeWeek": 1418,
     "timeMonth": 1396,
     "timeYear": 1421,
     "dailyMinutesDown": {
-      "2024-04-19": 71,
+      "2024-04-19": 72,
       "2024-04-18": 155,
       "2024-04-17": 72,
       "2024-04-16": 129,
@@ -72,7 +72,7 @@
       "2024-04-04": 160,
       "2024-04-03": 281,
       "2024-04-02": 63,
-      "2024-04-01": 164
+      "2024-04-01": 129
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://www.griffo.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.griffo.de.ico",
     "slug": "griffo",
-    "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "92.79%",
-    "uptimeWeek": "92.13%",
-    "uptimeMonth": "94.00%",
-    "uptimeYear": "98.02%",
+    "status": "down",
+    "uptime": "98.05%",
+    "uptimeDay": "92.92%",
+    "uptimeWeek": "92.12%",
+    "uptimeMonth": "94.07%",
+    "uptimeYear": "98.05%",
     "time": 1215,
     "timeDay": 1187,
     "timeWeek": 1334,
     "timeMonth": 1239,
     "timeYear": 1215,
     "dailyMinutesDown": {
-      "2024-04-19": 71,
+      "2024-04-19": 72,
       "2024-04-18": 151,
       "2024-04-17": 57,
       "2024-04-16": 126,
@@ -111,7 +111,7 @@
       "2024-04-03": 276,
       "2024-04-02": 60,
       "2024-04-01": 223,
-      "2024-03-31": 33
+      "2024-03-31": 4
     }
   },
   {
@@ -119,12 +119,12 @@
     "url": "https://www.lmbogenwsv.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.lmbogenwsv.de.ico",
     "slug": "lm-bogen-wsv",
-    "status": "up",
-    "uptime": "98.06%",
-    "uptimeDay": "92.92%",
-    "uptimeWeek": "92.42%",
-    "uptimeMonth": "94.10%",
-    "uptimeYear": "98.06%",
+    "status": "down",
+    "uptime": "98.07%",
+    "uptimeDay": "93.05%",
+    "uptimeWeek": "92.41%",
+    "uptimeMonth": "94.13%",
+    "uptimeYear": "98.07%",
     "time": 1185,
     "timeDay": 1250,
     "timeWeek": 1241,
@@ -151,7 +151,7 @@
       "2024-04-02": 59,
       "2024-04-01": 220,
       "2024-03-31": 82,
-      "2024-03-30": 61
+      "2024-03-30": 44
     }
   }
 ]
