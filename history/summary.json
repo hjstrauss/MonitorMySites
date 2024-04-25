@@ -80,19 +80,19 @@
     "url": "https://www.griffo.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.griffo.de.ico",
     "slug": "griffo",
-    "status": "up",
-    "uptime": "98.23%",
-    "uptimeDay": "86.21%",
-    "uptimeWeek": "89.92%",
-    "uptimeMonth": "94.27%",
-    "uptimeYear": "98.23%",
+    "status": "down",
+    "uptime": "98.26%",
+    "uptimeDay": "86.14%",
+    "uptimeWeek": "89.91%",
+    "uptimeMonth": "94.37%",
+    "uptimeYear": "98.26%",
     "time": 1209,
     "timeDay": 1174,
     "timeWeek": 1177,
     "timeMonth": 1229,
     "timeYear": 1209,
     "dailyMinutesDown": {
-      "2024-04-25": 152,
+      "2024-04-25": 153,
       "2024-04-24": 134,
       "2024-04-23": 157,
       "2024-04-22": 175,
@@ -111,7 +111,7 @@
       "2024-04-09": 121,
       "2024-04-08": 54,
       "2024-04-07": 135,
-      "2024-04-06": 81
+      "2024-04-06": 34
     }
   },
   {
@@ -119,12 +119,12 @@
     "url": "https://www.lmbogenwsv.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.lmbogenwsv.de.ico",
     "slug": "lm-bogen-wsv",
-    "status": "up",
-    "uptime": "98.22%",
-    "uptimeDay": "86.48%",
+    "status": "down",
+    "uptime": "98.28%",
+    "uptimeDay": "86.45%",
     "uptimeWeek": "90.25%",
-    "uptimeMonth": "94.26%",
-    "uptimeYear": "98.22%",
+    "uptimeMonth": "94.43%",
+    "uptimeYear": "98.28%",
     "time": 1195,
     "timeDay": 1506,
     "timeWeek": 1254,
@@ -150,7 +150,7 @@
       "2024-04-09": 118,
       "2024-04-08": 52,
       "2024-04-07": 133,
-      "2024-04-06": 163
+      "2024-04-06": 88
     }
   }
 ]
