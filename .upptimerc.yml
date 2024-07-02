@@ -13,6 +13,8 @@ sites:
     url: https://www.lmbogenwsv.de
   - name: Opa Hansi
     url: https://www.opahansi.de
+  - name Weilemer Schützen
+    url: https://www.weilemer-schuetzen.de
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
