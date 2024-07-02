@@ -3,18 +3,20 @@ owner: hjstrauss # Your GitHub organization or username, where this repository l
 repo: MonitorMySites # The name of this repository
 
 sites:
+  # at first my private sites
   - name: HJStrauss
     url: https://www.hjstrauss.de
   - name: Reime ohne Sinn und Verstand
     url: https://www.reimeohnesinnundverstand.de
   - name: Griffo
     url: https://www.griffo.de
-  - name: LM Bogen WSV
-    url: https://www.lmbogenwsv.de
   - name: Opa Hansi
     url: https://www.opahansi.de
+  # other web sites    
   - name Weilemer Schützen
     url: https://www.weilemer-schuetzen.de
+  - name: LM Bogen WSV
+    url: https://www.lmbogenwsv.de
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
