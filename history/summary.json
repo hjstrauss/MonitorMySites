@@ -4,18 +4,19 @@
     "url": "https://www.hjstrauss.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.hjstrauss.de.ico",
     "slug": "hj-strauss",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "88.39%",
-    "uptimeWeek": "85.84%",
-    "uptimeMonth": "92.97%",
-    "uptimeYear": "98.82%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "88.24%",
+    "uptimeWeek": "85.82%",
+    "uptimeMonth": "93.47%",
+    "uptimeYear": "98.91%",
     "time": 1023,
     "timeDay": 1260,
     "timeWeek": 1349,
     "timeMonth": 1554,
     "timeYear": 1023,
     "dailyMinutesDown": {
+      "2024-07-18": 2,
       "2024-07-17": 167,
       "2024-07-16": 102,
       "2024-07-15": 194,
@@ -31,7 +32,7 @@
       "2024-07-05": 304,
       "2024-07-04": 241,
       "2024-07-03": 139,
-      "2024-07-02": 248
+      "2024-07-02": 28
     }
   },
   {
@@ -39,18 +40,19 @@
     "url": "https://www.reimeohnesinnundverstand.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.reimeohnesinnundverstand.de.ico",
     "slug": "reime-ohne-sinn-und-verstand",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "88.59%",
-    "uptimeWeek": "86.35%",
-    "uptimeMonth": "92.88%",
-    "uptimeYear": "98.81%",
+    "status": "down",
+    "uptime": "98.84%",
+    "uptimeDay": "88.46%",
+    "uptimeWeek": "86.33%",
+    "uptimeMonth": "93.07%",
+    "uptimeYear": "98.84%",
     "time": 1598,
     "timeDay": 1408,
     "timeWeek": 1561,
     "timeMonth": 1741,
     "timeYear": 1598,
     "dailyMinutesDown": {
+      "2024-07-18": 2,
       "2024-07-17": 165,
       "2024-07-16": 86,
       "2024-07-15": 193,
@@ -66,8 +68,7 @@
       "2024-07-05": 283,
       "2024-07-04": 238,
       "2024-07-03": 137,
-      "2024-07-02": 405,
-      "2024-07-01": 1
+      "2024-07-02": 321
     }
   },
   {
@@ -75,11 +76,11 @@
     "url": "https://www.griffo.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.griffo.de.ico",
     "slug": "griffo",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "88.78%",
-    "uptimeWeek": "86.56%",
-    "uptimeMonth": "92.98%",
+    "uptimeDay": "88.69%",
+    "uptimeWeek": "86.55%",
+    "uptimeMonth": "93.02%",
     "uptimeYear": "98.83%",
     "time": 1301,
     "timeDay": 1337,
@@ -87,6 +88,7 @@
     "timeMonth": 1259,
     "timeYear": 1301,
     "dailyMinutesDown": {
+      "2024-07-18": 1,
       "2024-07-17": 162,
       "2024-07-16": 83,
       "2024-07-15": 187,
@@ -103,7 +105,7 @@
       "2024-07-04": 233,
       "2024-07-03": 133,
       "2024-07-02": 387,
-      "2024-07-01": 18
+      "2024-07-01": 0
     }
   },
   {
@@ -111,10 +113,10 @@
     "url": "https://www.opahansi.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.opahansi.de.ico",
     "slug": "opa-hansi",
-    "status": "up",
+    "status": "down",
     "uptime": "87.33%",
-    "uptimeDay": "90.01%",
-    "uptimeWeek": "86.92%",
+    "uptimeDay": "89.94%",
+    "uptimeWeek": "86.91%",
     "uptimeMonth": "87.33%",
     "uptimeYear": "87.33%",
     "time": 702,
@@ -123,6 +125,7 @@
     "timeMonth": 702,
     "timeYear": 702,
     "dailyMinutesDown": {
+      "2024-07-18": 1,
       "2024-07-17": 144,
       "2024-07-16": 82,
       "2024-07-15": 186,
@@ -164,18 +167,19 @@
     "url": "https://www.lmbogenwsv.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.lmbogenwsv.de.ico",
     "slug": "lm-bogen-wsv",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "90.18%",
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "90.14%",
     "uptimeWeek": "87.12%",
-    "uptimeMonth": "93.17%",
-    "uptimeYear": "98.86%",
+    "uptimeMonth": "93.22%",
+    "uptimeYear": "98.87%",
     "time": 1259,
     "timeDay": 1233,
     "timeWeek": 1283,
     "timeMonth": 1302,
     "timeYear": 1259,
     "dailyMinutesDown": {
+      "2024-07-18": 0,
       "2024-07-17": 142,
       "2024-07-16": 80,
       "2024-07-15": 180,
@@ -192,8 +196,7 @@
       "2024-07-04": 225,
       "2024-07-03": 113,
       "2024-07-02": 370,
-      "2024-07-01": 49,
-      "2024-06-30": 23
+      "2024-07-01": 49
     }
   }
 ]
