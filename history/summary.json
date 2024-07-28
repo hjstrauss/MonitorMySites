@@ -6,9 +6,9 @@
     "slug": "hj-strauss",
     "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "94.14%",
-    "uptimeWeek": "88.90%",
-    "uptimeMonth": "93.48%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "88.98%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "98.96%",
     "time": 1042,
     "timeDay": 1428,
@@ -16,7 +16,7 @@
     "timeMonth": 1376,
     "timeYear": 1042,
     "dailyMinutesDown": {
-      "2024-07-27": 84,
+      "2024-07-27": 75,
       "2024-07-26": 304,
       "2024-07-25": 183,
       "2024-07-24": 120,
@@ -31,7 +31,7 @@
       "2024-07-15": 194,
       "2024-07-14": 285,
       "2024-07-13": 235,
-      "2024-07-12": 118
+      "2024-07-12": 151
     }
   },
   {
@@ -40,18 +40,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reimeohnesinnundverstand.de.ico",
     "slug": "reime-ohne-sinn-und-verstand",
     "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "94.27%",
-    "uptimeWeek": "89.10%",
-    "uptimeMonth": "93.55%",
-    "uptimeYear": "98.98%",
+    "uptime": "98.96%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "89.19%",
+    "uptimeMonth": "93.47%",
+    "uptimeYear": "98.96%",
     "time": 1588,
     "timeDay": 1597,
     "timeWeek": 1496,
     "timeMonth": 1544,
     "timeYear": 1588,
     "dailyMinutesDown": {
-      "2024-07-27": 83,
+      "2024-07-27": 74,
       "2024-07-26": 300,
       "2024-07-25": 182,
       "2024-07-24": 117,
@@ -66,7 +66,8 @@
       "2024-07-15": 193,
       "2024-07-14": 285,
       "2024-07-13": 234,
-      "2024-07-12": 151
+      "2024-07-12": 151,
+      "2024-07-11": 41
     }
   },
   {
@@ -75,19 +76,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.griffo.de.ico",
     "slug": "griffo",
     "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "94.40%",
-    "uptimeWeek": "90.04%",
-    "uptimeMonth": "93.54%",
-    "uptimeYear": "98.98%",
+    "uptime": "98.97%",
+    "uptimeDay": "94.96%",
+    "uptimeWeek": "90.12%",
+    "uptimeMonth": "93.49%",
+    "uptimeYear": "98.97%",
     "time": 1298,
     "timeDay": 1347,
     "timeWeek": 1266,
     "timeMonth": 1260,
     "timeYear": 1298,
     "dailyMinutesDown": {
-      "2024-07-28": 0,
-      "2024-07-27": 80,
+      "2024-07-27": 72,
       "2024-07-26": 282,
       "2024-07-25": 174,
       "2024-07-24": 101,
@@ -103,7 +103,7 @@
       "2024-07-14": 281,
       "2024-07-13": 231,
       "2024-07-12": 146,
-      "2024-07-11": 123
+      "2024-07-11": 156
     }
   },
   {
@@ -112,19 +112,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.opahansi.de.ico",
     "slug": "opa-hansi",
     "status": "up",
-    "uptime": "92.37%",
-    "uptimeDay": "94.53%",
-    "uptimeWeek": "90.52%",
-    "uptimeMonth": "92.37%",
-    "uptimeYear": "92.37%",
+    "uptime": "92.34%",
+    "uptimeDay": "95.06%",
+    "uptimeWeek": "90.60%",
+    "uptimeMonth": "92.34%",
+    "uptimeYear": "92.34%",
     "time": 699,
     "timeDay": 752,
     "timeWeek": 700,
     "timeMonth": 699,
     "timeYear": 699,
     "dailyMinutesDown": {
-      "2024-07-28": 0,
-      "2024-07-27": 78,
+      "2024-07-27": 71,
       "2024-07-26": 279,
       "2024-07-25": 158,
       "2024-07-24": 97,
@@ -140,7 +139,7 @@
       "2024-07-14": 278,
       "2024-07-13": 228,
       "2024-07-12": 145,
-      "2024-07-11": 189
+      "2024-07-11": 210
     }
   },
   {
@@ -167,19 +166,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lmbogenwsv.de.ico",
     "slug": "lm-bogen-wsv",
     "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "94.66%",
-    "uptimeWeek": "90.85%",
-    "uptimeMonth": "93.70%",
-    "uptimeYear": "99.00%",
+    "uptime": "98.98%",
+    "uptimeDay": "95.16%",
+    "uptimeWeek": "90.92%",
+    "uptimeMonth": "93.60%",
+    "uptimeYear": "98.98%",
     "time": 1263,
     "timeDay": 1502,
     "timeWeek": 1336,
     "timeMonth": 1313,
     "timeYear": 1263,
     "dailyMinutesDown": {
-      "2024-07-28": 0,
-      "2024-07-27": 76,
+      "2024-07-27": 69,
       "2024-07-26": 276,
       "2024-07-25": 151,
       "2024-07-24": 96,
@@ -195,7 +193,7 @@
       "2024-07-14": 274,
       "2024-07-13": 226,
       "2024-07-12": 141,
-      "2024-07-11": 206
+      "2024-07-11": 253
     }
   }
 ]
