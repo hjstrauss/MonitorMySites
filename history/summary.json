@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hjstrauss.de.ico",
     "slug": "hj-strauss",
     "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "94.21%",
-    "uptimeWeek": "89.39%",
-    "uptimeMonth": "93.58%",
-    "uptimeYear": "98.99%",
+    "uptime": "98.98%",
+    "uptimeDay": "94.91%",
+    "uptimeWeek": "89.48%",
+    "uptimeMonth": "93.56%",
+    "uptimeYear": "98.98%",
     "time": 1046,
-    "timeDay": 1475,
+    "timeDay": 1441,
     "timeWeek": 1330,
-    "timeMonth": 1377,
+    "timeMonth": 1378,
     "timeYear": 1046,
     "dailyMinutesDown": {
-      "2024-07-28": 82,
+      "2024-07-28": 73,
       "2024-07-27": 75,
       "2024-07-26": 304,
       "2024-07-25": 183,
@@ -32,7 +32,7 @@
       "2024-07-15": 194,
       "2024-07-14": 285,
       "2024-07-13": 235,
-      "2024-07-12": 1
+      "2024-07-12": 19
     }
   },
   {
@@ -42,17 +42,17 @@
     "slug": "reime-ohne-sinn-und-verstand",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "94.38%",
-    "uptimeWeek": "89.59%",
-    "uptimeMonth": "93.68%",
+    "uptimeDay": "95.04%",
+    "uptimeWeek": "89.68%",
+    "uptimeMonth": "93.65%",
     "uptimeYear": "99.00%",
     "time": 1589,
-    "timeDay": 1652,
+    "timeDay": 1645,
     "timeWeek": 1502,
-    "timeMonth": 1550,
+    "timeMonth": 1551,
     "timeYear": 1589,
     "dailyMinutesDown": {
-      "2024-07-28": 80,
+      "2024-07-28": 71,
       "2024-07-27": 74,
       "2024-07-26": 300,
       "2024-07-25": 182,
@@ -68,7 +68,7 @@
       "2024-07-15": 193,
       "2024-07-14": 285,
       "2024-07-13": 234,
-      "2024-07-12": 19
+      "2024-07-12": 41
     }
   },
   {
@@ -78,17 +78,17 @@
     "slug": "griffo",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "96.59%",
-    "uptimeWeek": "90.82%",
-    "uptimeMonth": "93.54%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "90.90%",
+    "uptimeMonth": "93.51%",
     "uptimeYear": "98.98%",
     "time": 1298,
-    "timeDay": 1353,
+    "timeDay": 1320,
     "timeWeek": 1275,
     "timeMonth": 1268,
     "timeYear": 1298,
     "dailyMinutesDown": {
-      "2024-07-28": 48,
+      "2024-07-28": 40,
       "2024-07-27": 72,
       "2024-07-26": 282,
       "2024-07-25": 174,
@@ -105,7 +105,7 @@
       "2024-07-14": 281,
       "2024-07-13": 231,
       "2024-07-12": 146,
-      "2024-07-11": 85
+      "2024-07-11": 105
     }
   },
   {
@@ -114,18 +114,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.opahansi.de.ico",
     "slug": "opa-hansi",
     "status": "up",
-    "uptime": "92.64%",
-    "uptimeDay": "96.69%",
-    "uptimeWeek": "91.29%",
-    "uptimeMonth": "92.64%",
-    "uptimeYear": "92.64%",
+    "uptime": "92.63%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "91.36%",
+    "uptimeMonth": "92.63%",
+    "uptimeYear": "92.63%",
     "time": 702,
-    "timeDay": 785,
+    "timeDay": 768,
     "timeWeek": 705,
     "timeMonth": 702,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2024-07-28": 47,
+      "2024-07-28": 39,
       "2024-07-27": 71,
       "2024-07-26": 279,
       "2024-07-25": 158,
@@ -142,7 +142,7 @@
       "2024-07-14": 278,
       "2024-07-13": 228,
       "2024-07-12": 145,
-      "2024-07-11": 152
+      "2024-07-11": 170
     }
   },
   {
@@ -170,17 +170,17 @@
     "slug": "lm-bogen-wsv",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "91.60%",
-    "uptimeMonth": "93.70%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "91.67%",
+    "uptimeMonth": "93.67%",
     "uptimeYear": "99.00%",
     "time": 1264,
-    "timeDay": 1364,
+    "timeDay": 1351,
     "timeWeek": 1324,
-    "timeMonth": 1317,
+    "timeMonth": 1318,
     "timeYear": 1264,
     "dailyMinutesDown": {
-      "2024-07-28": 45,
+      "2024-07-28": 38,
       "2024-07-27": 69,
       "2024-07-26": 276,
       "2024-07-25": 151,
@@ -197,7 +197,7 @@
       "2024-07-14": 274,
       "2024-07-13": 226,
       "2024-07-12": 141,
-      "2024-07-11": 167
+      "2024-07-11": 186
     }
   }
 ]
