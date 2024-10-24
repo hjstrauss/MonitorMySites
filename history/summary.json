@@ -6,17 +6,17 @@
     "slug": "hj-strauss",
     "status": "up",
     "uptime": "69.49%",
-    "uptimeDay": "79.22%",
-    "uptimeWeek": "14.09%",
-    "uptimeMonth": "4.62%",
+    "uptimeDay": "84.27%",
+    "uptimeWeek": "15.11%",
+    "uptimeMonth": "4.86%",
     "uptimeYear": "69.49%",
     "time": 1056,
-    "timeDay": 1308,
+    "timeDay": 1303,
     "timeWeek": 1448,
     "timeMonth": 1448,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2024-10-23": 299,
+      "2024-10-23": 288,
       "2024-10-22": 1131,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -114,7 +114,7 @@
       "2024-07-20": 155,
       "2024-07-19": 225,
       "2024-07-18": 252,
-      "2024-07-17": 135
+      "2024-07-17": 167
     }
   },
   {
@@ -123,18 +123,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reimeohnesinnundverstand.de.ico",
     "slug": "reime-ohne-sinn-und-verstand",
     "status": "up",
-    "uptime": "70.16%",
-    "uptimeDay": "79.52%",
-    "uptimeWeek": "14.16%",
-    "uptimeMonth": "4.64%",
-    "uptimeYear": "70.16%",
+    "uptime": "70.17%",
+    "uptimeDay": "84.52%",
+    "uptimeWeek": "15.18%",
+    "uptimeMonth": "4.87%",
+    "uptimeYear": "70.17%",
     "time": 1588,
-    "timeDay": 1501,
+    "timeDay": 1491,
     "timeWeek": 1589,
     "timeMonth": 1589,
     "timeYear": 1588,
     "dailyMinutesDown": {
-      "2024-10-23": 296,
+      "2024-10-23": 285,
       "2024-10-22": 1129,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -231,7 +231,7 @@
       "2024-07-21": 122,
       "2024-07-20": 150,
       "2024-07-19": 222,
-      "2024-07-18": 29
+      "2024-07-18": 48
     }
   },
   {
@@ -241,17 +241,17 @@
     "slug": "griffo",
     "status": "up",
     "uptime": "69.51%",
-    "uptimeDay": "79.81%",
-    "uptimeWeek": "14.84%",
-    "uptimeMonth": "4.79%",
+    "uptimeDay": "84.76%",
+    "uptimeWeek": "15.84%",
+    "uptimeMonth": "5.03%",
     "uptimeYear": "69.51%",
     "time": 1300,
-    "timeDay": 1459,
+    "timeDay": 1465,
     "timeWeek": 1382,
     "timeMonth": 1382,
     "timeYear": 1300,
     "dailyMinutesDown": {
-      "2024-10-23": 290,
+      "2024-10-23": 280,
       "2024-10-22": 1065,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -351,7 +351,7 @@
       "2024-07-18": 244,
       "2024-07-17": 162,
       "2024-07-16": 83,
-      "2024-07-15": 47
+      "2024-07-15": 74
     }
   },
   {
@@ -361,17 +361,17 @@
     "slug": "opa-hansi",
     "status": "up",
     "uptime": "98.29%",
-    "uptimeDay": "80.12%",
-    "uptimeWeek": "84.92%",
-    "uptimeMonth": "93.63%",
+    "uptimeDay": "85.01%",
+    "uptimeWeek": "85.02%",
+    "uptimeMonth": "93.62%",
     "uptimeYear": "98.29%",
     "time": 737,
-    "timeDay": 702,
+    "timeDay": 701,
     "timeWeek": 734,
-    "timeMonth": 754,
+    "timeMonth": 753,
     "timeYear": 737,
     "dailyMinutesDown": {
-      "2024-10-23": 287,
+      "2024-10-23": 277,
       "2024-10-22": 274,
       "2024-10-21": 204,
       "2024-10-20": 186,
@@ -384,7 +384,7 @@
       "2024-10-13": 174,
       "2024-10-12": 147,
       "2024-10-11": 191,
-      "2024-10-10": 81
+      "2024-10-10": 97
     }
   },
   {
@@ -400,7 +400,7 @@
     "uptimeYear": "100.00%",
     "time": 2494,
     "timeDay": 2006,
-    "timeWeek": 2182,
+    "timeWeek": 2148,
     "timeMonth": 2595,
     "timeYear": 2494,
     "dailyMinutesDown": {}
@@ -411,18 +411,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lmbogenwsv.de.ico",
     "slug": "lm-bogen-wsv",
     "status": "up",
-    "uptime": "69.87%",
-    "uptimeDay": "80.42%",
-    "uptimeWeek": "14.38%",
-    "uptimeMonth": "4.69%",
-    "uptimeYear": "69.87%",
+    "uptime": "69.88%",
+    "uptimeDay": "85.25%",
+    "uptimeWeek": "15.38%",
+    "uptimeMonth": "4.92%",
+    "uptimeYear": "69.88%",
     "time": 1266,
-    "timeDay": 1446,
+    "timeDay": 1448,
     "timeWeek": 1414,
     "timeMonth": 1414,
     "timeYear": 1266,
     "dailyMinutesDown": {
-      "2024-10-23": 281,
+      "2024-10-23": 272,
       "2024-10-22": 1119,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -521,7 +521,8 @@
       "2024-07-19": 214,
       "2024-07-18": 235,
       "2024-07-17": 142,
-      "2024-07-16": 80
+      "2024-07-16": 80,
+      "2024-07-15": 18
     }
   }
 ]
