@@ -4,19 +4,19 @@
     "url": "https://www.hjstrauss.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.hjstrauss.de.ico",
     "slug": "hj-strauss",
-    "status": "up",
-    "uptime": "70.76%",
-    "uptimeDay": "85.16%",
-    "uptimeWeek": "86.39%",
-    "uptimeMonth": "39.15%",
-    "uptimeYear": "70.76%",
+    "status": "down",
+    "uptime": "70.77%",
+    "uptimeDay": "85.00%",
+    "uptimeWeek": "86.37%",
+    "uptimeMonth": "39.19%",
+    "uptimeYear": "70.77%",
     "time": 1094,
     "timeDay": 1465,
     "timeWeek": 1594,
     "timeMonth": 1532,
     "timeYear": 1094,
     "dailyMinutesDown": {
-      "2024-11-06": 157,
+      "2024-11-06": 159,
       "2024-11-05": 146,
       "2024-11-04": 310,
       "2024-11-03": 103,
@@ -114,8 +114,7 @@
       "2024-08-03": 1440,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
-      "2024-07-31": 1166,
-      "2024-07-30": 9
+      "2024-07-31": 1141
     }
   },
   {
@@ -123,11 +122,11 @@
     "url": "https://www.reimeohnesinnundverstand.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.reimeohnesinnundverstand.de.ico",
     "slug": "reime-ohne-sinn-und-verstand",
-    "status": "up",
+    "status": "down",
     "uptime": "71.38%",
-    "uptimeDay": "86.37%",
-    "uptimeWeek": "86.89%",
-    "uptimeMonth": "39.32%",
+    "uptimeDay": "86.23%",
+    "uptimeWeek": "86.87%",
+    "uptimeMonth": "39.36%",
     "uptimeYear": "71.38%",
     "time": 1612,
     "timeDay": 1654,
@@ -135,7 +134,7 @@
     "timeMonth": 1846,
     "timeYear": 1612,
     "dailyMinutesDown": {
-      "2024-11-06": 142,
+      "2024-11-06": 144,
       "2024-11-05": 144,
       "2024-11-04": 307,
       "2024-11-03": 86,
@@ -232,7 +231,7 @@
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
-      "2024-08-01": 72
+      "2024-08-01": 53
     }
   },
   {
@@ -240,19 +239,19 @@
     "url": "https://www.griffo.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.griffo.de.ico",
     "slug": "griffo",
-    "status": "up",
-    "uptime": "70.79%",
-    "uptimeDay": "86.53%",
-    "uptimeWeek": "87.24%",
-    "uptimeMonth": "39.64%",
-    "uptimeYear": "70.79%",
+    "status": "down",
+    "uptime": "70.80%",
+    "uptimeDay": "86.42%",
+    "uptimeWeek": "87.23%",
+    "uptimeMonth": "39.67%",
+    "uptimeYear": "70.80%",
     "time": 1310,
     "timeDay": 1371,
     "timeWeek": 1393,
     "timeMonth": 1417,
     "timeYear": 1310,
     "dailyMinutesDown": {
-      "2024-11-06": 141,
+      "2024-11-06": 143,
       "2024-11-05": 140,
       "2024-11-04": 287,
       "2024-11-03": 85,
@@ -351,7 +350,7 @@
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1165,
-      "2024-07-30": 98
+      "2024-07-30": 61
     }
   },
   {
@@ -359,19 +358,19 @@
     "url": "https://www.opahansi.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.opahansi.de.ico",
     "slug": "opa-hansi",
-    "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "87.74%",
-    "uptimeWeek": "87.59%",
-    "uptimeMonth": "92.89%",
-    "uptimeYear": "98.29%",
+    "status": "down",
+    "uptime": "98.30%",
+    "uptimeDay": "87.65%",
+    "uptimeWeek": "87.58%",
+    "uptimeMonth": "92.92%",
+    "uptimeYear": "98.30%",
     "time": 741,
     "timeDay": 764,
     "timeWeek": 743,
     "timeMonth": 744,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2024-11-06": 141,
+      "2024-11-06": 142,
       "2024-11-05": 123,
       "2024-11-04": 285,
       "2024-11-03": 82,
@@ -387,7 +386,7 @@
       "2024-10-24": 185,
       "2024-10-23": 277,
       "2024-10-22": 274,
-      "2024-10-21": 51
+      "2024-10-21": 36
     }
   },
   {
@@ -413,19 +412,19 @@
     "url": "https://www.lmbogenwsv.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.lmbogenwsv.de.ico",
     "slug": "lm-bogen-wsv",
-    "status": "up",
-    "uptime": "71.13%",
-    "uptimeDay": "87.87%",
-    "uptimeWeek": "87.12%",
-    "uptimeMonth": "39.62%",
-    "uptimeYear": "71.13%",
+    "status": "down",
+    "uptime": "71.14%",
+    "uptimeDay": "87.81%",
+    "uptimeWeek": "87.11%",
+    "uptimeMonth": "39.66%",
+    "uptimeYear": "71.14%",
     "time": 1285,
     "timeDay": 1373,
     "timeWeek": 1483,
     "timeMonth": 1489,
     "timeYear": 1285,
     "dailyMinutesDown": {
-      "2024-11-06": 139,
+      "2024-11-06": 140,
       "2024-11-05": 121,
       "2024-11-04": 280,
       "2024-11-03": 148,
@@ -523,7 +522,7 @@
       "2024-08-03": 1440,
       "2024-08-02": 1440,
       "2024-08-01": 1146,
-      "2024-07-31": 105
+      "2024-07-31": 73
     }
   }
 ]
