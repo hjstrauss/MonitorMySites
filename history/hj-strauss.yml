@@ -1,7 +1,7 @@
 url: https://www.hjstrauss.de
-status: up
-code: 200
-responseTime: 1263
-lastUpdated: 2025-02-07T23:00:26.457Z
+status: down
+code: 500
+responseTime: 2005
+lastUpdated: 2025-02-08T10:32:13.354Z
 startTime: 2024-01-18T08:43:56.620Z
 generator: Upptime <https://github.com/upptime/upptime>
