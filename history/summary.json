@@ -235,19 +235,19 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "94.34%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "94.32%",
     "uptimeMonth": "96.62%",
-    "uptimeYear": "99.14%",
+    "uptimeYear": "99.15%",
     "time": 2354,
     "timeDay": 1390,
     "timeWeek": 1853,
     "timeMonth": 2198,
     "timeYear": 2354,
     "dailyMinutesDown": {
-      "2025-02-16": 17,
+      "2025-02-16": 18,
       "2025-02-15": 39,
       "2025-02-13": 256,
       "2025-02-12": 58,
@@ -299,7 +299,7 @@
       "2024-12-16": 16,
       "2024-12-15": 19,
       "2024-12-14": 147,
-      "2024-12-13": 68
+      "2024-12-13": 48
     }
   },
   {
@@ -308,7 +308,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lmbogenwsv.de.ico",
     "slug": "lm-bogen-wsv",
     "status": "up",
-    "uptime": "78.61%",
+    "uptime": "78.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
