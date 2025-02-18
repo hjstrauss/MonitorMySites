@@ -81,7 +81,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.griffo.de.ico",
     "slug": "griffo",
     "status": "up",
-    "uptime": "78.44%",
+    "uptime": "78.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -235,19 +235,19 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "96.04%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "96.09%",
     "uptimeMonth": "96.61%",
     "uptimeYear": "99.15%",
     "time": 2340,
     "timeDay": 1352,
-    "timeWeek": 1699,
+    "timeWeek": 1688,
     "timeMonth": 2171,
     "timeYear": 2340,
     "dailyMinutesDown": {
-      "2025-02-18": 22,
+      "2025-02-18": 23,
       "2025-02-16": 17,
       "2025-02-15": 39,
       "2025-02-13": 256,
@@ -300,7 +300,7 @@
       "2024-12-16": 16,
       "2024-12-15": 19,
       "2024-12-14": 147,
-      "2024-12-13": 48
+      "2024-12-13": 31
     }
   },
   {
