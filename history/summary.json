@@ -14,7 +14,7 @@
     "timeDay": 1652,
     "timeWeek": 1337,
     "timeMonth": 1347,
-    "timeYear": 1363,
+    "timeYear": 1365,
     "dailyMinutesDown": {
       "2025-03-02": 80,
       "2025-02-28": 60,
@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reimeohnesinnundverstand.de.ico",
     "slug": "reime-ohne-sinn-und-verstand",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -54,7 +54,7 @@
     "timeDay": 1837,
     "timeWeek": 1527,
     "timeMonth": 1607,
-    "timeYear": 1744,
+    "timeYear": 1745,
     "dailyMinutesDown": {
       "2025-03-02": 23,
       "2025-02-28": 78,
@@ -159,19 +159,19 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "88.25%",
-    "uptimeWeek": "94.93%",
-    "uptimeMonth": "97.16%",
-    "uptimeYear": "99.28%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "88.18%",
+    "uptimeWeek": "95.50%",
+    "uptimeMonth": "97.15%",
+    "uptimeYear": "99.29%",
     "time": 2118,
     "timeDay": 1784,
-    "timeWeek": 1589,
+    "timeWeek": 1596,
     "timeMonth": 1660,
     "timeYear": 2118,
     "dailyMinutesDown": {
-      "2025-05-10": 137,
+      "2025-05-10": 138,
       "2025-05-09": 32,
       "2025-05-08": 75,
       "2025-05-06": 27,
@@ -220,7 +220,7 @@
       "2025-02-12": 58,
       "2025-02-11": 185,
       "2025-02-10": 16,
-      "2025-02-09": 53
+      "2025-02-09": 23
     }
   },
   {
