@@ -14,7 +14,7 @@
     "timeDay": 1399,
     "timeWeek": 1463,
     "timeMonth": 1366,
-    "timeYear": 1443,
+    "timeYear": 1444,
     "dailyMinutesDown": {
       "2025-05-22": 15,
       "2025-05-16": 22,
@@ -48,18 +48,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reimeohnesinnundverstand.de.ico",
     "slug": "reime-ohne-sinn-und-verstand",
     "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.28%",
+    "uptime": "99.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.26%",
     "time": 1760,
     "timeDay": 1431,
     "timeWeek": 1449,
     "timeMonth": 1523,
     "timeYear": 1774,
     "dailyMinutesDown": {
-      "2025-05-22": 15,
       "2025-05-16": 21,
       "2025-05-15": 31,
       "2025-03-02": 23,
@@ -82,7 +81,7 @@
       "2024-10-26": 181,
       "2024-10-25": 74,
       "2024-10-24": 194,
-      "2024-10-23": 177
+      "2024-10-23": 285
     }
   },
   {
@@ -92,9 +91,9 @@
     "slug": "griffo",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.39%",
     "time": 1370,
     "timeDay": 1279,
@@ -102,7 +101,6 @@
     "timeMonth": 1241,
     "timeYear": 1371,
     "dailyMinutesDown": {
-      "2025-05-22": 14,
       "2025-05-16": 21,
       "2025-05-15": 30,
       "2025-03-02": 145,
@@ -122,7 +120,7 @@
       "2024-10-25": 71,
       "2024-10-24": 191,
       "2024-10-23": 280,
-      "2024-10-22": 74
+      "2024-10-22": 112
     }
   },
   {
@@ -132,9 +130,9 @@
     "slug": "opa-hansi",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.32%",
     "time": 755,
     "timeDay": 775,
@@ -142,7 +140,6 @@
     "timeMonth": 809,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2025-05-22": 14,
       "2025-05-16": 20,
       "2025-05-15": 30,
       "2025-03-02": 130,
@@ -162,7 +159,7 @@
       "2024-10-25": 70,
       "2024-10-24": 185,
       "2024-10-23": 277,
-      "2024-10-22": 111
+      "2024-10-22": 131
     }
   },
   {
@@ -170,19 +167,19 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "86.91%",
-    "uptimeWeek": "92.05%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "86.86%",
+    "uptimeWeek": "92.04%",
     "uptimeMonth": "94.42%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 2066,
     "timeDay": 1652,
-    "timeWeek": 1606,
+    "timeWeek": 1603,
     "timeMonth": 1640,
     "timeYear": 2066,
     "dailyMinutesDown": {
-      "2025-05-22": 146,
+      "2025-05-22": 147,
       "2025-05-21": 86,
       "2025-05-20": 186,
       "2025-05-19": 131,
@@ -220,7 +217,7 @@
       "2025-03-11": 74,
       "2025-03-09": 25,
       "2025-03-08": 37,
-      "2025-03-07": 38
+      "2025-03-07": 17
     }
   },
   {
@@ -230,17 +227,16 @@
     "slug": "lm-bogen-wsv",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.39%",
     "time": 1350,
     "timeDay": 1392,
     "timeWeek": 1279,
     "timeMonth": 1208,
     "timeYear": 1351,
     "dailyMinutesDown": {
-      "2025-05-22": 13,
       "2025-05-16": 20,
       "2025-05-15": 29,
       "2025-03-02": 107,
@@ -262,7 +258,7 @@
       "2024-10-25": 67,
       "2024-10-24": 182,
       "2024-10-23": 272,
-      "2024-10-22": 71
+      "2024-10-22": 108
     }
   }
 ]
