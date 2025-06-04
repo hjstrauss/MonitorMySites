@@ -12,9 +12,9 @@
     "uptimeYear": "99.28%",
     "time": 1530,
     "timeDay": 1594,
-    "timeWeek": 4911,
+    "timeWeek": 5142,
     "timeMonth": 2549,
-    "timeYear": 1591,
+    "timeYear": 1594,
     "dailyMinutesDown": {
       "2025-06-01": 23,
       "2025-05-31": 29,
@@ -57,7 +57,7 @@
     "uptimeYear": "99.28%",
     "time": 1852,
     "timeDay": 2270,
-    "timeWeek": 8119,
+    "timeWeek": 8533,
     "timeMonth": 3726,
     "timeYear": 1869,
     "dailyMinutesDown": {
@@ -102,7 +102,7 @@
     "uptimeYear": "99.41%",
     "time": 1374,
     "timeDay": 1642,
-    "timeWeek": 1598,
+    "timeWeek": 1610,
     "timeMonth": 1368,
     "timeYear": 1374,
     "dailyMinutesDown": {
@@ -143,7 +143,7 @@
     "uptimeYear": "99.35%",
     "time": 756,
     "timeDay": 1188,
-    "timeWeek": 870,
+    "timeWeek": 845,
     "timeMonth": 834,
     "timeYear": 756,
     "dailyMinutesDown": {
@@ -178,17 +178,17 @@
     "slug": "weilemer-schuetzen",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "87.19%",
-    "uptimeWeek": "89.64%",
-    "uptimeMonth": "91.93%",
+    "uptimeDay": "89.00%",
+    "uptimeWeek": "89.29%",
+    "uptimeMonth": "91.86%",
     "uptimeYear": "99.27%",
     "time": 2015,
-    "timeDay": 1491,
+    "timeDay": 1612,
     "timeWeek": 1608,
-    "timeMonth": 1612,
+    "timeMonth": 1615,
     "timeYear": 2015,
     "dailyMinutesDown": {
-      "2025-06-04": 62,
+      "2025-06-04": 116,
       "2025-06-03": 123,
       "2025-06-02": 241,
       "2025-06-01": 179,
@@ -210,7 +210,7 @@
       "2025-05-16": 61,
       "2025-05-15": 161,
       "2025-05-14": 276,
-      "2025-05-13": 106
+      "2025-05-13": 82
     }
   },
   {
@@ -226,7 +226,7 @@
     "uptimeYear": "99.41%",
     "time": 1350,
     "timeDay": 1373,
-    "timeWeek": 1360,
+    "timeWeek": 1336,
     "timeMonth": 1267,
     "timeYear": 1351,
     "dailyMinutesDown": {
