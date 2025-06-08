@@ -180,18 +180,19 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "96.51%",
-    "uptimeWeek": "90.70%",
-    "uptimeMonth": "91.93%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "91.80%",
+    "uptimeMonth": "91.98%",
     "uptimeYear": "99.28%",
     "time": 2007,
     "timeDay": 1735,
-    "timeWeek": 1651,
+    "timeWeek": 1652,
     "timeMonth": 1629,
     "timeYear": 2007,
     "dailyMinutesDown": {
+      "2025-06-08": 1,
       "2025-06-07": 114,
       "2025-06-06": 126,
       "2025-06-05": 51,
@@ -216,7 +217,7 @@
       "2025-05-17": 106,
       "2025-05-16": 61,
       "2025-05-15": 161,
-      "2025-05-14": 39
+      "2025-05-14": 17
     }
   },
   {
