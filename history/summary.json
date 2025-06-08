@@ -14,7 +14,7 @@
     "timeDay": 1372,
     "timeWeek": 2705,
     "timeMonth": 2521,
-    "timeYear": 1593,
+    "timeYear": 1592,
     "dailyMinutesDown": {
       "2025-06-07": 19,
       "2025-06-01": 23,
@@ -106,7 +106,7 @@
     "timeDay": 1310,
     "timeWeek": 1444,
     "timeMonth": 1372,
-    "timeYear": 1375,
+    "timeYear": 1374,
     "dailyMinutesDown": {
       "2025-06-07": 18,
       "2025-06-01": 23,
@@ -180,19 +180,19 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "91.30%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "91.25%",
     "uptimeWeek": "91.06%",
-    "uptimeMonth": "92.12%",
-    "uptimeYear": "99.30%",
+    "uptimeMonth": "92.21%",
+    "uptimeYear": "99.31%",
     "time": 2007,
     "timeDay": 1766,
     "timeWeek": 1669,
     "timeMonth": 1634,
     "timeYear": 2007,
     "dailyMinutesDown": {
-      "2025-06-08": 75,
+      "2025-06-08": 76,
       "2025-06-07": 114,
       "2025-06-06": 126,
       "2025-06-05": 51,
@@ -215,8 +215,7 @@
       "2025-05-19": 131,
       "2025-05-18": 87,
       "2025-05-17": 106,
-      "2025-05-16": 61,
-      "2025-05-15": 42
+      "2025-05-16": 61
     }
   },
   {
