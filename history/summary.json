@@ -14,7 +14,7 @@
     "timeDay": 1591,
     "timeWeek": 1428,
     "timeMonth": 2524,
-    "timeYear": 1509,
+    "timeYear": 1507,
     "dailyMinutesDown": {
       "2025-06-20": 18,
       "2025-06-19": 1136,
@@ -205,9 +205,9 @@
     "slug": "weilemer-schuetzen",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "89.97%",
-    "uptimeWeek": "94.63%",
-    "uptimeMonth": "92.19%",
+    "uptimeDay": "90.75%",
+    "uptimeWeek": "94.74%",
+    "uptimeMonth": "92.15%",
     "uptimeYear": "99.33%",
     "time": 1986,
     "timeDay": 1640,
@@ -215,7 +215,7 @@
     "timeMonth": 1683,
     "timeYear": 1986,
     "dailyMinutesDown": {
-      "2025-06-21": 144,
+      "2025-06-21": 133,
       "2025-06-20": 67,
       "2025-06-19": 19,
       "2025-06-18": 125,
@@ -241,7 +241,7 @@
       "2025-05-28": 228,
       "2025-05-27": 217,
       "2025-05-26": 185,
-      "2025-05-25": 16
+      "2025-05-25": 44
     }
   },
   {
@@ -259,7 +259,7 @@
     "timeDay": 1110,
     "timeWeek": 1248,
     "timeMonth": 1248,
-    "timeYear": 1357,
+    "timeYear": 1356,
     "dailyMinutesDown": {
       "2025-06-20": 16,
       "2025-06-19": 1137,
