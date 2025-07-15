@@ -12,9 +12,9 @@
     "uptimeYear": "98.51%",
     "time": 1523,
     "timeDay": 1162,
-    "timeWeek": 1353,
+    "timeWeek": 1344,
     "timeMonth": 1302,
-    "timeYear": 1534,
+    "timeYear": 1535,
     "dailyMinutesDown": {
       "2025-07-07": 18,
       "2025-06-30": 31,
@@ -66,9 +66,9 @@
     "uptimeYear": "98.51%",
     "time": 1818,
     "timeDay": 1168,
-    "timeWeek": 1355,
+    "timeWeek": 1362,
     "timeMonth": 1461,
-    "timeYear": 1841,
+    "timeYear": 1842,
     "dailyMinutesDown": {
       "2025-07-07": 17,
       "2025-06-30": 16,
@@ -120,7 +120,7 @@
     "uptimeYear": "98.65%",
     "time": 1361,
     "timeDay": 1030,
-    "timeWeek": 1279,
+    "timeWeek": 1250,
     "timeMonth": 1313,
     "timeYear": 1371,
     "dailyMinutesDown": {
@@ -170,7 +170,7 @@
     "uptimeYear": "98.65%",
     "time": 758,
     "timeDay": 910,
-    "timeWeek": 820,
+    "timeWeek": 804,
     "timeMonth": 840,
     "timeYear": 762,
     "dailyMinutesDown": {
@@ -212,19 +212,19 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "84.48%",
-    "uptimeWeek": "94.22%",
-    "uptimeMonth": "93.87%",
-    "uptimeYear": "99.37%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "84.43%",
+    "uptimeWeek": "94.21%",
+    "uptimeMonth": "93.92%",
+    "uptimeYear": "99.39%",
     "time": 1955,
     "timeDay": 1494,
     "timeWeek": 1470,
-    "timeMonth": 1694,
+    "timeMonth": 1692,
     "timeYear": 1950,
     "dailyMinutesDown": {
-      "2025-07-15": 224,
+      "2025-07-15": 225,
       "2025-07-14": 50,
       "2025-07-13": 84,
       "2025-07-12": 43,
@@ -254,7 +254,7 @@
       "2025-06-15": 100,
       "2025-06-14": 149,
       "2025-06-13": 165,
-      "2025-06-12": 237
+      "2025-06-12": 133
     }
   },
   {
@@ -272,7 +272,7 @@
     "timeDay": 1083,
     "timeWeek": 1194,
     "timeMonth": 1245,
-    "timeYear": 1375,
+    "timeYear": 1374,
     "dailyMinutesDown": {
       "2025-07-07": 16,
       "2025-06-26": 22,
