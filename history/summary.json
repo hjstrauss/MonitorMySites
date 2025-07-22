@@ -14,7 +14,7 @@
     "timeDay": 1710,
     "timeWeek": 1565,
     "timeMonth": 1310,
-    "timeYear": 1576,
+    "timeYear": 1577,
     "dailyMinutesDown": {
       "2025-07-07": 18,
       "2025-06-30": 31,
@@ -68,7 +68,7 @@
     "timeDay": 1590,
     "timeWeek": 1463,
     "timeMonth": 1412,
-    "timeYear": 1895,
+    "timeYear": 1898,
     "dailyMinutesDown": {
       "2025-07-07": 17,
       "2025-06-30": 16,
@@ -122,7 +122,7 @@
     "timeDay": 1741,
     "timeWeek": 1479,
     "timeMonth": 1340,
-    "timeYear": 1389,
+    "timeYear": 1390,
     "dailyMinutesDown": {
       "2025-07-07": 17,
       "2025-06-30": 15,
@@ -212,19 +212,19 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "83.60%",
-    "uptimeWeek": "89.13%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "85.43%",
+    "uptimeWeek": "89.36%",
     "uptimeMonth": "92.49%",
     "uptimeYear": "99.34%",
     "time": 1932,
-    "timeDay": 1242,
-    "timeWeek": 1366,
+    "timeDay": 1265,
+    "timeWeek": 1374,
     "timeMonth": 1558,
     "timeYear": 1924,
     "dailyMinutesDown": {
-      "2025-07-22": 191,
+      "2025-07-22": 192,
       "2025-07-21": 213,
       "2025-07-20": 79,
       "2025-07-19": 113,
@@ -253,7 +253,7 @@
       "2025-06-23": 249,
       "2025-06-22": 51,
       "2025-06-21": 133,
-      "2025-06-20": 40
+      "2025-06-20": 19
     }
   },
   {
@@ -262,7 +262,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lmbogenwsv.de.ico",
     "slug": "lm-bogen-wsv",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
