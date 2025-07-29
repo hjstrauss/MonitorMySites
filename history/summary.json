@@ -10,7 +10,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "98.51%",
-    "time": 1574,
+    "time": 1595,
     "timeDay": 930,
     "timeWeek": 1215,
     "timeMonth": 1291,
@@ -68,7 +68,7 @@
     "timeDay": 781,
     "timeWeek": 1066,
     "timeMonth": 1309,
-    "timeYear": 1951,
+    "timeYear": 1952,
     "dailyMinutesDown": {
       "2025-07-07": 17,
       "2025-06-30": 16,
@@ -113,7 +113,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.griffo.de.ico",
     "slug": "griffo",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
@@ -122,7 +122,7 @@
     "timeDay": 1130,
     "timeWeek": 1184,
     "timeMonth": 1232,
-    "timeYear": 1409,
+    "timeYear": 1408,
     "dailyMinutesDown": {
       "2025-07-07": 17,
       "2025-06-30": 15,
@@ -212,12 +212,12 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "80.05%",
-    "uptimeWeek": "88.99%",
+    "uptimeDay": "80.01%",
+    "uptimeWeek": "88.98%",
     "uptimeMonth": "92.28%",
-    "uptimeYear": "99.32%",
+    "uptimeYear": "99.33%",
     "time": 1914,
     "timeDay": 1548,
     "timeWeek": 1477,
@@ -251,8 +251,7 @@
       "2025-07-02": 162,
       "2025-07-01": 38,
       "2025-06-30": 50,
-      "2025-06-29": 200,
-      "2025-06-28": 15
+      "2025-06-29": 200
     }
   },
   {
