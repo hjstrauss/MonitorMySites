@@ -6,9 +6,9 @@
     "slug": "hj-strauss",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.51%",
     "time": 1599,
     "timeDay": 1241,
@@ -16,7 +16,6 @@
     "timeMonth": 1437,
     "timeYear": 1615,
     "dailyMinutesDown": {
-      "2025-09-04": 10,
       "2025-07-07": 18,
       "2025-06-30": 31,
       "2025-06-26": 24,
@@ -51,7 +50,7 @@
       "2024-10-28": 217,
       "2024-10-27": 372,
       "2024-10-26": 184,
-      "2024-10-25": 4
+      "2024-10-25": 23
     }
   },
   {
@@ -61,9 +60,9 @@
     "slug": "reime-ohne-sinn-und-verstand",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "98.50%",
     "time": 1918,
     "timeDay": 1289,
@@ -71,7 +70,6 @@
     "timeMonth": 1397,
     "timeYear": 1949,
     "dailyMinutesDown": {
-      "2025-09-04": 10,
       "2025-08-26": 103,
       "2025-07-07": 17,
       "2025-06-30": 16,
@@ -107,7 +105,7 @@
       "2024-10-27": 368,
       "2024-10-26": 181,
       "2024-10-25": 74,
-      "2024-10-24": 39
+      "2024-10-24": 63
     }
   },
   {
@@ -117,9 +115,9 @@
     "slug": "griffo",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "98.63%",
     "time": 1391,
     "timeDay": 1012,
@@ -127,7 +125,6 @@
     "timeMonth": 1195,
     "timeYear": 1397,
     "dailyMinutesDown": {
-      "2025-09-04": 9,
       "2025-08-26": 103,
       "2025-07-07": 17,
       "2025-06-30": 15,
@@ -159,7 +156,7 @@
       "2024-10-27": 361,
       "2024-10-26": 181,
       "2024-10-25": 71,
-      "2024-10-24": 138
+      "2024-10-24": 154
     }
   },
   {
@@ -169,9 +166,9 @@
     "slug": "opa-hansi",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "98.63%",
     "time": 786,
     "timeDay": 871,
@@ -179,7 +176,6 @@
     "timeMonth": 787,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2025-09-04": 9,
       "2025-08-26": 102,
       "2025-07-07": 16,
       "2025-06-26": 23,
@@ -210,7 +206,7 @@
       "2024-10-27": 358,
       "2024-10-26": 177,
       "2024-10-25": 70,
-      "2024-10-24": 165
+      "2024-10-24": 185
     }
   },
   {
@@ -218,12 +214,12 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "82.82%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "82.79%",
     "uptimeWeek": "89.06%",
-    "uptimeMonth": "92.82%",
-    "uptimeYear": "99.40%",
+    "uptimeMonth": "92.88%",
+    "uptimeYear": "99.41%",
     "time": 1811,
     "timeDay": 1420,
     "timeWeek": 1414,
@@ -249,7 +245,7 @@
       "2025-08-19": 102,
       "2025-08-18": 78,
       "2025-08-17": 97,
-      "2025-08-16": 86
+      "2025-08-16": 59
     }
   },
   {
@@ -259,9 +255,9 @@
     "slug": "lm-bogen-wsv",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "98.63%",
     "time": 1379,
     "timeDay": 1187,
@@ -269,7 +265,6 @@
     "timeMonth": 1180,
     "timeYear": 1389,
     "dailyMinutesDown": {
-      "2025-09-04": 8,
       "2025-08-26": 102,
       "2025-07-07": 16,
       "2025-06-26": 22,
@@ -302,7 +297,7 @@
       "2024-10-27": 352,
       "2024-10-26": 177,
       "2024-10-25": 67,
-      "2024-10-24": 147
+      "2024-10-24": 163
     }
   }
 ]
