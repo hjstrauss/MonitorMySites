@@ -6,9 +6,9 @@
     "slug": "hj-strauss",
     "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "70.78%",
-    "uptimeMonth": "93.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "70.92%",
+    "uptimeMonth": "93.31%",
     "uptimeYear": "97.99%",
     "time": 1607,
     "timeDay": 1190,
@@ -16,7 +16,6 @@
     "timeMonth": 1560,
     "timeYear": 1620,
     "dailyMinutesDown": {
-      "2025-09-10": 14,
       "2025-09-08": 1256,
       "2025-09-07": 1440,
       "2025-09-06": 219,
@@ -53,7 +52,8 @@
       "2024-10-30": 293,
       "2024-10-29": 84,
       "2024-10-28": 217,
-      "2024-10-27": 372
+      "2024-10-27": 372,
+      "2024-10-26": 22
     }
   },
   {
@@ -63,9 +63,9 @@
     "slug": "reime-ohne-sinn-und-verstand",
     "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "70.81%",
-    "uptimeMonth": "93.05%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "70.94%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "97.96%",
     "time": 1905,
     "timeDay": 1236,
@@ -73,7 +73,6 @@
     "timeMonth": 1377,
     "timeYear": 1933,
     "dailyMinutesDown": {
-      "2025-09-10": 14,
       "2025-09-08": 1256,
       "2025-09-07": 1440,
       "2025-09-06": 218,
@@ -112,7 +111,7 @@
       "2024-10-28": 215,
       "2024-10-27": 368,
       "2024-10-26": 181,
-      "2024-10-25": 3
+      "2024-10-25": 22
     }
   },
   {
@@ -122,17 +121,16 @@
     "slug": "griffo",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "70.98%",
-    "uptimeMonth": "93.09%",
-    "uptimeYear": "98.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "71.11%",
+    "uptimeMonth": "93.12%",
+    "uptimeYear": "98.09%",
     "time": 1390,
     "timeDay": 1235,
     "timeWeek": 1242,
     "timeMonth": 1210,
     "timeYear": 1395,
     "dailyMinutesDown": {
-      "2025-09-10": 13,
       "2025-09-08": 1256,
       "2025-09-07": 1440,
       "2025-09-06": 216,
@@ -167,7 +165,7 @@
       "2024-10-27": 361,
       "2024-10-26": 181,
       "2024-10-25": 71,
-      "2024-10-24": 39
+      "2024-10-24": 62
     }
   },
   {
@@ -177,17 +175,16 @@
     "slug": "opa-hansi",
     "status": "up",
     "uptime": "98.40%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "71.00%",
-    "uptimeMonth": "93.09%",
-    "uptimeYear": "98.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "71.13%",
+    "uptimeMonth": "93.12%",
+    "uptimeYear": "98.09%",
     "time": 786,
     "timeDay": 684,
     "timeWeek": 826,
     "timeMonth": 796,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2025-09-10": 13,
       "2025-09-08": 1256,
       "2025-09-07": 1440,
       "2025-09-06": 214,
@@ -221,7 +218,7 @@
       "2024-10-27": 358,
       "2024-10-26": 177,
       "2024-10-25": 70,
-      "2024-10-24": 82
+      "2024-10-24": 105
     }
   },
   {
@@ -229,15 +226,15 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "87.85%",
-    "uptimeMonth": "93.28%",
-    "uptimeYear": "99.44%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "95.78%",
+    "uptimeWeek": "88.15%",
+    "uptimeMonth": "93.36%",
+    "uptimeYear": "99.45%",
     "time": 1792,
-    "timeDay": 1308,
-    "timeWeek": 1350,
+    "timeDay": 1327,
+    "timeWeek": 1345,
     "timeMonth": 1386,
     "timeYear": 1762,
     "dailyMinutesDown": {
@@ -259,7 +256,7 @@
       "2025-08-26": 181,
       "2025-08-25": 155,
       "2025-08-24": 93,
-      "2025-08-23": 123
+      "2025-08-23": 88
     }
   },
   {
@@ -269,17 +266,16 @@
     "slug": "lm-bogen-wsv",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "71.02%",
-    "uptimeMonth": "93.10%",
-    "uptimeYear": "98.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "71.14%",
+    "uptimeMonth": "93.13%",
+    "uptimeYear": "98.09%",
     "time": 1375,
     "timeDay": 1030,
     "timeWeek": 1155,
     "timeMonth": 1148,
     "timeYear": 1382,
     "dailyMinutesDown": {
-      "2025-09-10": 12,
       "2025-09-08": 1257,
       "2025-09-07": 1440,
       "2025-09-06": 212,
@@ -315,7 +311,7 @@
       "2024-10-27": 352,
       "2024-10-26": 177,
       "2024-10-25": 67,
-      "2024-10-24": 59
+      "2024-10-24": 81
     }
   }
 ]
