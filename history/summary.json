@@ -4,18 +4,19 @@
     "url": "https://www.hjstrauss.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.hjstrauss.de.ico",
     "slug": "hj-strauss",
-    "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "93.27%",
-    "uptimeYear": "97.99%",
-    "time": 1603,
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "98.00%",
+    "time": 1604,
     "timeDay": 1410,
     "timeWeek": 1391,
     "timeMonth": 1557,
     "timeYear": 1616,
     "dailyMinutesDown": {
+      "2025-09-17": 2,
       "2025-09-16": 17,
       "2025-09-08": 1256,
       "2025-09-07": 1440,
@@ -53,7 +54,7 @@
       "2024-10-30": 293,
       "2024-10-29": 84,
       "2024-10-28": 217,
-      "2024-10-27": 372
+      "2024-10-27": 291
     }
   },
   {
@@ -61,18 +62,19 @@
     "url": "https://www.reimeohnesinnundverstand.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.reimeohnesinnundverstand.de.ico",
     "slug": "reime-ohne-sinn-und-verstand",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "93.04%",
-    "uptimeYear": "97.96%",
-    "time": 1898,
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "93.03%",
+    "uptimeYear": "97.98%",
+    "time": 1899,
     "timeDay": 1347,
     "timeWeek": 1215,
     "timeMonth": 1357,
     "timeYear": 1919,
     "dailyMinutesDown": {
+      "2025-09-17": 2,
       "2025-09-16": 17,
       "2025-09-08": 1256,
       "2025-09-07": 1440,
@@ -111,8 +113,7 @@
       "2024-10-29": 83,
       "2024-10-28": 215,
       "2024-10-27": 368,
-      "2024-10-26": 181,
-      "2024-10-25": 3
+      "2024-10-26": 104
     }
   },
   {
@@ -120,18 +121,19 @@
     "url": "https://www.griffo.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.griffo.de.ico",
     "slug": "griffo",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "93.08%",
-    "uptimeYear": "98.09%",
+    "uptimeYear": "98.10%",
     "time": 1386,
     "timeDay": 1683,
     "timeWeek": 1249,
     "timeMonth": 1228,
     "timeYear": 1392,
     "dailyMinutesDown": {
+      "2025-09-17": 1,
       "2025-09-16": 16,
       "2025-09-08": 1256,
       "2025-09-07": 1440,
@@ -167,7 +169,7 @@
       "2024-10-27": 361,
       "2024-10-26": 181,
       "2024-10-25": 71,
-      "2024-10-24": 39
+      "2024-10-24": 18
     }
   },
   {
@@ -175,11 +177,11 @@
     "url": "https://www.opahansi.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.opahansi.de.ico",
     "slug": "opa-hansi",
-    "status": "up",
+    "status": "down",
     "uptime": "98.43%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "93.09%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "98.10%",
     "time": 786,
     "timeDay": 1012,
@@ -187,6 +189,7 @@
     "timeMonth": 805,
     "timeYear": 786,
     "dailyMinutesDown": {
+      "2025-09-17": 1,
       "2025-09-16": 16,
       "2025-09-08": 1256,
       "2025-09-07": 1440,
@@ -221,7 +224,7 @@
       "2024-10-27": 358,
       "2024-10-26": 177,
       "2024-10-25": 70,
-      "2024-10-24": 82
+      "2024-10-24": 60
     }
   },
   {
@@ -268,10 +271,10 @@
     "url": "https://www.lmbogenwsv.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.lmbogenwsv.de.ico",
     "slug": "lm-bogen-wsv",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "93.09%",
     "uptimeYear": "98.10%",
     "time": 1375,
@@ -280,6 +283,7 @@
     "timeMonth": 1186,
     "timeYear": 1380,
     "dailyMinutesDown": {
+      "2025-09-17": 1,
       "2025-09-16": 15,
       "2025-09-08": 1257,
       "2025-09-07": 1440,
@@ -316,7 +320,7 @@
       "2024-10-27": 352,
       "2024-10-26": 177,
       "2024-10-25": 67,
-      "2024-10-24": 59
+      "2024-10-24": 37
     }
   }
 ]
