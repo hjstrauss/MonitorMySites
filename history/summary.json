@@ -66,7 +66,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reimeohnesinnundverstand.de.ico",
     "slug": "reime-ohne-sinn-und-verstand",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.80%",
     "uptimeDay": "97.98%",
     "uptimeWeek": "98.18%",
     "uptimeMonth": "92.66%",
@@ -238,16 +238,16 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "90.46%",
-    "uptimeWeek": "92.73%",
-    "uptimeMonth": "93.60%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "91.97%",
+    "uptimeWeek": "92.89%",
+    "uptimeMonth": "93.64%",
     "uptimeYear": "99.47%",
     "time": 1772,
-    "timeDay": 1553,
-    "timeWeek": 1448,
-    "timeMonth": 1409,
+    "timeDay": 1609,
+    "timeWeek": 1456,
+    "timeMonth": 1404,
     "timeYear": 1739,
     "dailyMinutesDown": {
       "2025-09-20": 20,
@@ -270,8 +270,7 @@
       "2025-09-03": 168,
       "2025-09-02": 186,
       "2025-09-01": 144,
-      "2025-08-31": 112,
-      "2025-08-30": 16
+      "2025-08-31": 112
     }
   },
   {
