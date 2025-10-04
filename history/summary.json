@@ -197,7 +197,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.opahansi.de.ico",
     "slug": "opa-hansi",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.82%",
     "uptimeMonth": "92.23%",
@@ -257,10 +257,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
     "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "93.44%",
-    "uptimeWeek": "86.81%",
-    "uptimeMonth": "93.76%",
+    "uptime": "99.58%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "86.90%",
+    "uptimeMonth": "93.74%",
     "uptimeYear": "99.48%",
     "time": 1745,
     "timeDay": 1423,
@@ -268,7 +268,7 @@
     "timeMonth": 1419,
     "timeYear": 1710,
     "dailyMinutesDown": {
-      "2025-10-03": 95,
+      "2025-10-03": 85,
       "2025-10-02": 368,
       "2025-10-01": 294,
       "2025-09-30": 228,
@@ -287,7 +287,7 @@
       "2025-09-16": 144,
       "2025-09-15": 90,
       "2025-09-14": 57,
-      "2025-09-13": 20
+      "2025-09-13": 40
     }
   },
   {
