@@ -11,10 +11,10 @@
     "uptimeMonth": "98.44%",
     "uptimeYear": "98.06%",
     "time": 1610,
-    "timeDay": 1795,
+    "timeDay": 1873,
     "timeWeek": 1877,
     "timeMonth": 1618,
-    "timeYear": 1615,
+    "timeYear": 1614,
     "dailyMinutesDown": {
       "2025-10-17": 16,
       "2025-10-16": 17,
@@ -84,7 +84,7 @@
     "uptimeMonth": "98.50%",
     "uptimeYear": "98.03%",
     "time": 1834,
-    "timeDay": 1641,
+    "timeDay": 1731,
     "timeWeek": 1579,
     "timeMonth": 1445,
     "timeYear": 1858,
@@ -157,7 +157,7 @@
     "uptimeMonth": "98.64%",
     "uptimeYear": "98.13%",
     "time": 1380,
-    "timeDay": 1563,
+    "timeDay": 1614,
     "timeWeek": 1308,
     "timeMonth": 1309,
     "timeYear": 1381,
@@ -218,18 +218,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.opahansi.de.ico",
     "slug": "opa-hansi",
     "status": "up",
-    "uptime": "98.56%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "98.70%",
+    "uptime": "98.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "98.13%",
     "time": 807,
-    "timeDay": 947,
+    "timeDay": 937,
     "timeWeek": 833,
     "timeMonth": 833,
     "timeYear": 813,
     "dailyMinutesDown": {
-      "2025-10-17": 15,
       "2025-10-16": 15,
       "2025-10-15": 16,
       "2025-10-11": 45,
@@ -276,7 +275,7 @@
       "2024-10-31": 240,
       "2024-10-30": 284,
       "2024-10-29": 79,
-      "2024-10-28": 28
+      "2024-10-28": 50
     }
   },
   {
@@ -284,12 +283,12 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "81.34%",
-    "uptimeWeek": "82.97%",
-    "uptimeMonth": "92.29%",
-    "uptimeYear": "99.36%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "81.32%",
+    "uptimeWeek": "82.96%",
+    "uptimeMonth": "92.39%",
+    "uptimeYear": "99.37%",
     "time": 1718,
     "timeDay": 1444,
     "timeWeek": 1411,
@@ -312,7 +311,7 @@
       "2025-10-04": 158,
       "2025-10-03": 85,
       "2025-10-02": 368,
-      "2025-10-01": 64
+      "2025-10-01": 20
     }
   },
   {
@@ -322,17 +321,16 @@
     "slug": "lm-bogen-wsv",
     "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "98.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "98.82%",
     "uptimeYear": "98.13%",
     "time": 1357,
-    "timeDay": 1513,
+    "timeDay": 1576,
     "timeWeek": 1317,
     "timeMonth": 1225,
     "timeYear": 1360,
     "dailyMinutesDown": {
-      "2025-10-17": 15,
       "2025-10-15": 16,
       "2025-10-11": 43,
       "2025-10-07": 37,
@@ -379,7 +377,7 @@
       "2024-10-31": 236,
       "2024-10-30": 282,
       "2024-10-29": 61,
-      "2024-10-28": 49
+      "2024-10-28": 64
     }
   }
 ]
