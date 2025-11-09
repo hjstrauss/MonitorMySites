@@ -1,7 +1,7 @@
 url: https://www.weilemer-schuetzen.de
-status: up
-code: 200
-responseTime: 2095
-lastUpdated: 2025-11-09T17:19:06.676Z
+status: down
+code: 503
+responseTime: 642
+lastUpdated: 2025-11-09T18:35:38.032Z
 startTime: 2024-07-02T11:56:52.252Z
 generator: Upptime <https://github.com/upptime/upptime>
