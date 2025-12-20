@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hjstrauss.de.ico",
     "slug": "hj-strauss",
     "status": "up",
-    "uptime": "99.06%",
+    "uptime": "99.07%",
     "uptimeDay": "97.44%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "98.37%",
@@ -13,7 +13,7 @@
     "time": 1632,
     "timeDay": 1379,
     "timeWeek": 1602,
-    "timeMonth": 1558,
+    "timeMonth": 1560,
     "timeYear": 1655,
     "dailyMinutesDown": {
       "2025-12-19": 37,
@@ -204,7 +204,7 @@
     "time": 1395,
     "timeDay": 1709,
     "timeWeek": 1663,
-    "timeMonth": 1592,
+    "timeMonth": 1596,
     "timeYear": 1406,
     "dailyMinutesDown": {
       "2025-12-19": 35,
@@ -298,7 +298,7 @@
     "time": 836,
     "timeDay": 835,
     "timeWeek": 962,
-    "timeMonth": 859,
+    "timeMonth": 862,
     "timeYear": 850,
     "dailyMinutesDown": {
       "2025-12-19": 33,
@@ -380,15 +380,15 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "81.02%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "80.99%",
     "uptimeWeek": "87.83%",
-    "uptimeMonth": "91.41%",
-    "uptimeYear": "99.28%",
-    "time": 1650,
+    "uptimeMonth": "91.64%",
+    "uptimeYear": "99.30%",
+    "time": 1646,
     "timeDay": 1726,
-    "timeWeek": 1681,
+    "timeWeek": 1688,
     "timeMonth": 1647,
     "timeYear": 1616,
     "dailyMinutesDown": {
@@ -411,8 +411,7 @@
       "2025-12-04": 194,
       "2025-12-03": 179,
       "2025-12-02": 236,
-      "2025-12-01": 228,
-      "2025-11-30": 28
+      "2025-12-01": 155
     }
   },
   {
@@ -429,7 +428,7 @@
     "time": 1310,
     "timeDay": 1461,
     "timeWeek": 1315,
-    "timeMonth": 1304,
+    "timeMonth": 1305,
     "timeYear": 1298,
     "dailyMinutesDown": {
       "2025-12-19": 33,
