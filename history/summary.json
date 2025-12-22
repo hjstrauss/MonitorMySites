@@ -13,7 +13,7 @@
     "time": 1630,
     "timeDay": 1269,
     "timeWeek": 1574,
-    "timeMonth": 1562,
+    "timeMonth": 1571,
     "timeYear": 1656,
     "dailyMinutesDown": {
       "2025-12-19": 37,
@@ -108,7 +108,7 @@
     "time": 1788,
     "timeDay": 1059,
     "timeWeek": 1571,
-    "timeMonth": 1504,
+    "timeMonth": 1511,
     "timeYear": 1801,
     "dailyMinutesDown": {
       "2025-12-19": 35,
@@ -204,7 +204,7 @@
     "time": 1395,
     "timeDay": 1260,
     "timeWeek": 1574,
-    "timeMonth": 1597,
+    "timeMonth": 1602,
     "timeYear": 1407,
     "dailyMinutesDown": {
       "2025-12-19": 35,
@@ -298,7 +298,7 @@
     "time": 835,
     "timeDay": 543,
     "timeWeek": 940,
-    "timeMonth": 865,
+    "timeMonth": 871,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2025-12-19": 33,
@@ -380,16 +380,16 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "91.47%",
-    "uptimeWeek": "87.22%",
-    "uptimeMonth": "91.96%",
+    "uptimeDay": "91.44%",
+    "uptimeWeek": "87.66%",
+    "uptimeMonth": "92.01%",
     "uptimeYear": "99.33%",
     "time": 1636,
-    "timeDay": 2116,
-    "timeWeek": 1751,
-    "timeMonth": 1666,
+    "timeDay": 2142,
+    "timeWeek": 1748,
+    "timeMonth": 1664,
     "timeYear": 1615,
     "dailyMinutesDown": {
       "2025-12-22": 80,
@@ -411,7 +411,7 @@
       "2025-12-06": 80,
       "2025-12-05": 193,
       "2025-12-04": 194,
-      "2025-12-03": 98
+      "2025-12-03": 73
     }
   },
   {
@@ -420,7 +420,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lmbogenwsv.de.ico",
     "slug": "lm-bogen-wsv",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.18%",
     "uptimeMonth": "98.53%",
@@ -428,7 +428,7 @@
     "time": 1311,
     "timeDay": 1580,
     "timeWeek": 1425,
-    "timeMonth": 1333,
+    "timeMonth": 1338,
     "timeYear": 1301,
     "dailyMinutesDown": {
       "2025-12-19": 33,
