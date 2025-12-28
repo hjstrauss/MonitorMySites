@@ -6,17 +6,16 @@
     "slug": "hj-strauss",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "98.77%",
-    "uptimeYear": "98.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.19%",
     "time": 1623,
     "timeDay": 1315,
     "timeWeek": 1545,
     "timeMonth": 1572,
     "timeYear": 1656,
     "dailyMinutesDown": {
-      "2025-12-28": 9,
       "2025-12-27": 43,
       "2025-12-25": 45,
       "2025-12-23": 21,
@@ -92,7 +91,8 @@
       "2025-06-17": 1440,
       "2025-06-16": 61,
       "2025-06-11": 45,
-      "2025-06-07": 19
+      "2025-06-07": 19,
+      "2025-06-01": 23
     }
   },
   {
@@ -102,9 +102,9 @@
     "slug": "reime-ohne-sinn-und-verstand",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "98.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "98.81%",
     "uptimeYear": "98.19%",
     "time": 1768,
     "timeDay": 1241,
@@ -112,7 +112,6 @@
     "timeMonth": 1503,
     "timeYear": 1795,
     "dailyMinutesDown": {
-      "2025-12-28": 9,
       "2025-12-27": 42,
       "2025-12-25": 44,
       "2025-12-23": 20,
@@ -189,7 +188,7 @@
       "2025-06-07": 19,
       "2025-06-01": 23,
       "2025-05-31": 29,
-      "2025-05-30": 35
+      "2025-05-30": 63
     }
   },
   {
@@ -199,9 +198,9 @@
     "slug": "griffo",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "98.18%",
     "time": 1398,
     "timeDay": 1517,
@@ -209,7 +208,6 @@
     "timeMonth": 1584,
     "timeYear": 1411,
     "dailyMinutesDown": {
-      "2025-12-28": 8,
       "2025-12-27": 42,
       "2025-12-25": 44,
       "2025-12-23": 20,
@@ -286,7 +284,7 @@
       "2025-05-30": 61,
       "2025-05-16": 21,
       "2025-05-15": 30,
-      "2025-03-02": 95
+      "2025-03-02": 114
     }
   },
   {
@@ -296,9 +294,9 @@
     "slug": "opa-hansi",
     "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "98.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "98.19%",
     "time": 836,
     "timeDay": 734,
@@ -306,7 +304,6 @@
     "timeMonth": 878,
     "timeYear": 851,
     "dailyMinutesDown": {
-      "2025-12-28": 8,
       "2025-12-27": 42,
       "2025-12-25": 43,
       "2025-12-23": 19,
@@ -389,16 +386,16 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "79.46%",
-    "uptimeWeek": "89.27%",
-    "uptimeMonth": "91.97%",
-    "uptimeYear": "99.33%",
-    "time": 1635,
-    "timeDay": 1548,
-    "timeWeek": 1695,
-    "timeMonth": 1660,
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "79.43%",
+    "uptimeWeek": "89.47%",
+    "uptimeMonth": "92.08%",
+    "uptimeYear": "99.34%",
+    "time": 1634,
+    "timeDay": 1615,
+    "timeWeek": 1699,
+    "timeMonth": 1662,
     "timeYear": 1603,
     "dailyMinutesDown": {
       "2025-12-28": 258,
@@ -420,7 +417,7 @@
       "2025-12-12": 233,
       "2025-12-11": 50,
       "2025-12-10": 272,
-      "2025-12-09": 219
+      "2025-12-09": 168
     }
   },
   {
@@ -429,10 +426,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lmbogenwsv.de.ico",
     "slug": "lm-bogen-wsv",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "98.88%",
+    "uptime": "99.05%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.89%",
     "uptimeYear": "98.21%",
     "time": 1312,
     "timeDay": 1246,
@@ -440,7 +437,6 @@
     "timeMonth": 1345,
     "timeYear": 1308,
     "dailyMinutesDown": {
-      "2025-12-28": 7,
       "2025-12-27": 41,
       "2025-12-25": 43,
       "2025-12-23": 19,
