@@ -6,17 +6,16 @@
     "slug": "hj-strauss",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "98.98%",
-    "uptimeYear": "98.20%",
-    "time": 1626,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "98.19%",
+    "time": 1624,
     "timeDay": 1667,
     "timeWeek": 1489,
     "timeMonth": 1578,
-    "timeYear": 1660,
+    "timeYear": 1657,
     "dailyMinutesDown": {
-      "2026-01-03": 10,
       "2025-12-30": 19,
       "2025-12-27": 43,
       "2025-12-25": 45,
@@ -92,7 +91,8 @@
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 61,
-      "2025-06-11": 45
+      "2025-06-11": 45,
+      "2025-06-07": 19
     }
   },
   {
@@ -102,9 +102,9 @@
     "slug": "reime-ohne-sinn-und-verstand",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "98.19%",
     "time": 1804,
     "timeDay": 1545,
@@ -112,7 +112,6 @@
     "timeMonth": 1531,
     "timeYear": 1793,
     "dailyMinutesDown": {
-      "2026-01-03": 10,
       "2025-12-30": 18,
       "2025-12-27": 42,
       "2025-12-25": 44,
@@ -190,7 +189,7 @@
       "2025-06-07": 19,
       "2025-06-01": 23,
       "2025-05-31": 29,
-      "2025-05-30": 17
+      "2025-05-30": 35
     }
   },
   {
@@ -200,9 +199,9 @@
     "slug": "griffo",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.05%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "98.18%",
     "time": 1401,
     "timeDay": 1754,
@@ -210,7 +209,6 @@
     "timeMonth": 1598,
     "timeYear": 1413,
     "dailyMinutesDown": {
-      "2026-01-03": 9,
       "2025-12-30": 18,
       "2025-12-27": 42,
       "2025-12-25": 44,
@@ -288,7 +286,7 @@
       "2025-05-30": 61,
       "2025-05-16": 21,
       "2025-05-15": 30,
-      "2025-03-02": 71
+      "2025-03-02": 95
     }
   },
   {
@@ -298,9 +296,9 @@
     "slug": "opa-hansi",
     "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "98.18%",
     "time": 839,
     "timeDay": 1123,
@@ -308,7 +306,6 @@
     "timeMonth": 894,
     "timeYear": 852,
     "dailyMinutesDown": {
-      "2026-01-03": 9,
       "2025-12-30": 17,
       "2025-12-27": 42,
       "2025-12-25": 43,
@@ -392,16 +389,16 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "93.56%",
-    "uptimeWeek": "89.61%",
-    "uptimeMonth": "92.59%",
-    "uptimeYear": "99.38%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "89.60%",
+    "uptimeMonth": "92.71%",
+    "uptimeYear": "99.39%",
     "time": 1623,
-    "timeDay": 1506,
-    "timeWeek": 1575,
-    "timeMonth": 1670,
+    "timeDay": 1489,
+    "timeWeek": 1585,
+    "timeMonth": 1671,
     "timeYear": 1594,
     "dailyMinutesDown": {
       "2026-01-03": 39,
@@ -424,7 +421,7 @@
       "2025-12-17": 197,
       "2025-12-16": 182,
       "2025-12-15": 217,
-      "2025-12-14": 77
+      "2025-12-14": 23
     }
   },
   {
@@ -434,17 +431,16 @@
     "slug": "lm-bogen-wsv",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "98.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "98.21%",
     "time": 1314,
     "timeDay": 1815,
     "timeWeek": 1495,
     "timeMonth": 1400,
     "timeYear": 1312,
     "dailyMinutesDown": {
-      "2026-01-03": 8,
       "2025-12-30": 17,
       "2025-12-27": 41,
       "2025-12-25": 43,
