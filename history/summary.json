@@ -6,17 +6,17 @@
     "slug": "hj-strauss",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "96.04%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.20%",
+    "uptimeDay": "96.67%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "98.19%",
     "time": 1628,
     "timeDay": 1359,
     "timeWeek": 1467,
     "timeMonth": 1571,
     "timeYear": 1655,
     "dailyMinutesDown": {
-      "2026-01-04": 37,
+      "2026-01-04": 28,
       "2026-01-03": 21,
       "2025-12-30": 19,
       "2025-12-27": 43,
@@ -92,7 +92,8 @@
       "2025-06-19": 1136,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
-      "2025-06-16": 61
+      "2025-06-16": 61,
+      "2025-06-11": 22
     }
   },
   {
@@ -102,9 +103,9 @@
     "slug": "reime-ohne-sinn-und-verstand",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "96.14%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "98.95%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "98.96%",
     "uptimeYear": "98.19%",
     "time": 1796,
     "timeDay": 1348,
@@ -112,7 +113,7 @@
     "timeMonth": 1514,
     "timeYear": 1790,
     "dailyMinutesDown": {
-      "2026-01-04": 36,
+      "2026-01-04": 27,
       "2026-01-03": 20,
       "2025-12-30": 18,
       "2025-12-27": 42,
@@ -189,7 +190,8 @@
       "2025-06-16": 60,
       "2025-06-11": 45,
       "2025-06-07": 19,
-      "2025-06-01": 23
+      "2025-06-01": 23,
+      "2025-05-31": 29
     }
   },
   {
@@ -199,9 +201,9 @@
     "slug": "griffo",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "96.24%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "98.19%",
     "time": 1401,
     "timeDay": 1383,
@@ -209,7 +211,7 @@
     "timeMonth": 1582,
     "timeYear": 1413,
     "dailyMinutesDown": {
-      "2026-01-04": 35,
+      "2026-01-04": 27,
       "2026-01-03": 20,
       "2025-12-30": 18,
       "2025-12-27": 42,
@@ -286,7 +288,8 @@
       "2025-06-01": 23,
       "2025-05-31": 28,
       "2025-05-30": 61,
-      "2025-05-16": 21
+      "2025-05-16": 21,
+      "2025-05-15": 30
     }
   },
   {
@@ -296,9 +299,9 @@
     "slug": "opa-hansi",
     "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "96.34%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "98.19%",
     "time": 840,
     "timeDay": 824,
@@ -306,7 +309,7 @@
     "timeMonth": 892,
     "timeYear": 852,
     "dailyMinutesDown": {
-      "2026-01-04": 34,
+      "2026-01-04": 26,
       "2026-01-03": 19,
       "2025-12-30": 17,
       "2025-12-27": 42,
@@ -382,7 +385,7 @@
       "2025-05-30": 60,
       "2025-05-16": 20,
       "2025-05-15": 30,
-      "2025-03-02": 96
+      "2025-03-02": 130
     }
   },
   {
@@ -390,11 +393,11 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "86.57%",
-    "uptimeWeek": "90.62%",
-    "uptimeMonth": "92.71%",
+    "uptimeDay": "87.06%",
+    "uptimeWeek": "90.69%",
+    "uptimeMonth": "92.73%",
     "uptimeYear": "99.39%",
     "time": 1621,
     "timeDay": 1769,
@@ -402,7 +405,7 @@
     "timeMonth": 1678,
     "timeYear": 1595,
     "dailyMinutesDown": {
-      "2026-01-04": 93,
+      "2026-01-04": 86,
       "2026-01-03": 138,
       "2026-01-02": 93,
       "2026-01-01": 92,
@@ -431,10 +434,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lmbogenwsv.de.ico",
     "slug": "lm-bogen-wsv",
     "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "96.46%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.03%",
+    "uptime": "99.06%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "98.20%",
     "time": 1313,
     "timeDay": 1251,
@@ -442,7 +445,7 @@
     "timeMonth": 1397,
     "timeYear": 1312,
     "dailyMinutesDown": {
-      "2026-01-04": 33,
+      "2026-01-04": 26,
       "2026-01-03": 19,
       "2025-12-30": 17,
       "2025-12-27": 41,
