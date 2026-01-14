@@ -12,7 +12,7 @@
     "uptimeYear": "98.92%",
     "time": 1626,
     "timeDay": 1594,
-    "timeWeek": 1449,
+    "timeWeek": 1450,
     "timeMonth": 1525,
     "timeYear": 1656,
     "dailyMinutesDown": {
@@ -106,7 +106,7 @@
     "uptimeYear": "98.92%",
     "time": 1787,
     "timeDay": 1618,
-    "timeWeek": 1566,
+    "timeWeek": 1583,
     "timeMonth": 1543,
     "timeYear": 1785,
     "dailyMinutesDown": {
@@ -201,7 +201,7 @@
     "uptimeYear": "98.16%",
     "time": 1405,
     "timeDay": 1698,
-    "timeWeek": 1635,
+    "timeWeek": 1665,
     "timeMonth": 1586,
     "timeYear": 1422,
     "dailyMinutesDown": {
@@ -300,7 +300,7 @@
     "uptimeYear": "98.16%",
     "time": 835,
     "timeDay": 732,
-    "timeWeek": 796,
+    "timeWeek": 817,
     "timeMonth": 874,
     "timeYear": 856,
     "dailyMinutesDown": {
@@ -391,19 +391,19 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "81.70%",
-    "uptimeWeek": "84.51%",
-    "uptimeMonth": "91.66%",
-    "uptimeYear": "99.30%",
-    "time": 1610,
-    "timeDay": 1424,
-    "timeWeek": 1574,
+    "uptimeDay": "81.66%",
+    "uptimeWeek": "84.72%",
+    "uptimeMonth": "91.71%",
+    "uptimeYear": "99.31%",
+    "time": 1609,
+    "timeDay": 1443,
+    "timeWeek": 1573,
     "timeMonth": 1650,
-    "timeYear": 1584,
+    "timeYear": 1583,
     "dailyMinutesDown": {
-      "2026-01-14": 263,
+      "2026-01-14": 264,
       "2026-01-13": 54,
       "2026-01-12": 193,
       "2026-01-11": 222,
@@ -423,8 +423,7 @@
       "2025-12-28": 258,
       "2025-12-27": 74,
       "2025-12-26": 207,
-      "2025-12-25": 127,
-      "2025-12-24": 23
+      "2025-12-25": 127
     }
   },
   {
@@ -440,7 +439,7 @@
     "uptimeYear": "98.15%",
     "time": 1327,
     "timeDay": 1342,
-    "timeWeek": 1503,
+    "timeWeek": 1526,
     "timeMonth": 1506,
     "timeYear": 1325,
     "dailyMinutesDown": {
