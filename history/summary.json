@@ -4,19 +4,19 @@
     "url": "https://www.hjstrauss.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.hjstrauss.de.ico",
     "slug": "hj-strauss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "95.88%",
-    "uptimeWeek": "98.30%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "98.28%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "98.94%",
-    "time": 1626,
+    "time": 1625,
     "timeDay": 1521,
     "timeWeek": 1512,
     "timeMonth": 1512,
     "timeYear": 1653,
     "dailyMinutesDown": {
-      "2026-01-17": 35,
+      "2026-01-17": 37,
       "2026-01-16": 24,
       "2026-01-14": 42,
       "2026-01-13": 25,
@@ -91,7 +91,7 @@
       "2025-09-16": 17,
       "2025-09-08": 1256,
       "2025-09-07": 1440,
-      "2025-09-06": 106
+      "2025-09-06": 77
     }
   },
   {
@@ -99,10 +99,10 @@
     "url": "https://www.reimeohnesinnundverstand.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.reimeohnesinnundverstand.de.ico",
     "slug": "reime-ohne-sinn-und-verstand",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "95.94%",
-    "uptimeWeek": "98.33%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "98.31%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "98.92%",
     "time": 1783,
@@ -111,7 +111,7 @@
     "timeMonth": 1556,
     "timeYear": 1784,
     "dailyMinutesDown": {
-      "2026-01-17": 35,
+      "2026-01-17": 37,
       "2026-01-16": 24,
       "2026-01-14": 41,
       "2026-01-13": 25,
@@ -185,8 +185,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 218,
       "2025-09-04": 15,
-      "2025-08-26": 103,
-      "2025-07-07": 17
+      "2025-08-26": 103
     }
   },
   {
@@ -194,19 +193,19 @@
     "url": "https://www.griffo.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.griffo.de.ico",
     "slug": "griffo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "96.01%",
-    "uptimeWeek": "98.35%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "98.34%",
     "uptimeMonth": "98.62%",
-    "uptimeYear": "98.15%",
+    "uptimeYear": "98.16%",
     "time": 1407,
     "timeDay": 1792,
     "timeWeek": 1696,
     "timeMonth": 1602,
     "timeYear": 1425,
     "dailyMinutesDown": {
-      "2026-01-17": 34,
+      "2026-01-17": 35,
       "2026-01-16": 23,
       "2026-01-14": 41,
       "2026-01-13": 24,
@@ -285,8 +284,7 @@
       "2025-06-19": 1137,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
-      "2025-06-16": 60,
-      "2025-06-11": 21
+      "2025-06-16": 60
     }
   },
   {
@@ -294,10 +292,10 @@
     "url": "https://www.opahansi.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.opahansi.de.ico",
     "slug": "opa-hansi",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "96.07%",
-    "uptimeWeek": "98.37%",
+    "uptimeDay": "96.01%",
+    "uptimeWeek": "98.36%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "98.16%",
     "time": 836,
@@ -306,7 +304,7 @@
     "timeMonth": 878,
     "timeYear": 857,
     "dailyMinutesDown": {
-      "2026-01-17": 34,
+      "2026-01-17": 35,
       "2026-01-16": 23,
       "2026-01-14": 40,
       "2026-01-13": 24,
@@ -385,8 +383,7 @@
       "2025-06-16": 59,
       "2025-06-11": 43,
       "2025-06-07": 18,
-      "2025-06-01": 22,
-      "2025-05-31": 28
+      "2025-06-01": 22
     }
   },
   {
@@ -436,10 +433,10 @@
     "url": "https://www.lmbogenwsv.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.lmbogenwsv.de.ico",
     "slug": "lm-bogen-wsv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "96.15%",
-    "uptimeWeek": "98.40%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "98.39%",
     "uptimeMonth": "98.66%",
     "uptimeYear": "98.16%",
     "time": 1329,
@@ -448,7 +445,7 @@
     "timeMonth": 1531,
     "timeYear": 1327,
     "dailyMinutesDown": {
-      "2026-01-17": 33,
+      "2026-01-17": 34,
       "2026-01-16": 22,
       "2026-01-14": 40,
       "2026-01-13": 23,
@@ -526,8 +523,7 @@
       "2025-05-31": 28,
       "2025-05-30": 59,
       "2025-05-16": 20,
-      "2025-05-15": 29,
-      "2025-03-02": 28
+      "2025-05-15": 29
     }
   }
 ]
