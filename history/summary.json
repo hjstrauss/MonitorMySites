@@ -373,11 +373,11 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "91.95%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "91.92%",
     "uptimeWeek": "88.67%",
-    "uptimeMonth": "90.95%",
+    "uptimeMonth": "91.02%",
     "uptimeYear": "99.25%",
     "time": 1579,
     "timeDay": 1465,
@@ -405,7 +405,7 @@
       "2026-01-11": 222,
       "2026-01-10": 194,
       "2026-01-09": 391,
-      "2026-01-08": 173
+      "2026-01-08": 143
     }
   },
   {
@@ -414,10 +414,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lmbogenwsv.de.ico",
     "slug": "lm-bogen-wsv",
     "status": "down",
-    "uptime": "98.14%",
+    "uptime": "98.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "75.27%",
+    "uptimeMonth": "75.21%",
     "uptimeYear": "96.21%",
     "time": 1328,
     "timeDay": 0,
@@ -425,7 +425,7 @@
     "timeMonth": 1481,
     "timeYear": 1326,
     "dailyMinutesDown": {
-      "2026-01-28": 1157,
+      "2026-01-28": 1186,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
