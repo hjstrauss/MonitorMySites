@@ -189,9 +189,9 @@
     "slug": "griffo",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "91.80%",
-    "uptimeWeek": "96.14%",
-    "uptimeMonth": "97.52%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "96.28%",
+    "uptimeMonth": "97.56%",
     "uptimeYear": "99.43%",
     "time": 1415,
     "timeDay": 1516,
@@ -199,7 +199,7 @@
     "timeMonth": 1560,
     "timeYear": 1433,
     "dailyMinutesDown": {
-      "2026-01-28": 113,
+      "2026-01-28": 98,
       "2026-01-27": 98,
       "2026-01-26": 24,
       "2026-01-24": 38,
@@ -271,7 +271,8 @@
       "2025-09-28": 39,
       "2025-09-26": 100,
       "2025-09-25": 86,
-      "2025-09-21": 29
+      "2025-09-21": 29,
+      "2025-09-20": 29
     }
   },
   {
@@ -281,9 +282,9 @@
     "slug": "opa-hansi",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "91.90%",
-    "uptimeWeek": "96.20%",
-    "uptimeMonth": "97.56%",
+    "uptimeDay": "92.88%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "97.59%",
     "uptimeYear": "99.44%",
     "time": 838,
     "timeDay": 702,
@@ -291,7 +292,7 @@
     "timeMonth": 833,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2026-01-28": 112,
+      "2026-01-28": 98,
       "2026-01-27": 96,
       "2026-01-26": 24,
       "2026-01-24": 38,
@@ -364,7 +365,7 @@
       "2025-09-21": 29,
       "2025-09-20": 28,
       "2025-09-19": 17,
-      "2025-09-17": 26
+      "2025-09-17": 43
     }
   },
   {
@@ -372,12 +373,12 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "93.69%",
+    "uptimeDay": "93.65%",
     "uptimeWeek": "88.92%",
-    "uptimeMonth": "90.94%",
-    "uptimeYear": "99.24%",
+    "uptimeMonth": "91.01%",
+    "uptimeYear": "99.25%",
     "time": 1579,
     "timeDay": 1394,
     "timeWeek": 1572,
@@ -404,8 +405,7 @@
       "2026-01-11": 222,
       "2026-01-10": 194,
       "2026-01-09": 391,
-      "2026-01-08": 173,
-      "2026-01-07": 31
+      "2026-01-08": 173
     }
   },
   {
@@ -416,16 +416,16 @@
     "status": "down",
     "uptime": "98.14%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "75.44%",
-    "uptimeYear": "96.23%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "75.33%",
+    "uptimeYear": "96.22%",
     "time": 1328,
     "timeDay": 0,
-    "timeWeek": 1008,
+    "timeWeek": 1012,
     "timeMonth": 1481,
     "timeYear": 1326,
     "dailyMinutesDown": {
-      "2026-01-28": 1083,
+      "2026-01-28": 1132,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
