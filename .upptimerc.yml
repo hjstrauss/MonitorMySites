@@ -15,8 +15,8 @@ sites:
   # other web sites    
   - name: Weilemer Schützen
     url: https://www.weilemer-schuetzen.de
-  - name: LM Bogen WSV
-    url: https://www.lmbogenwsv.de
+  - name: Koelbelinchen-Art
+    url: https://www.koelbelinchen.de
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
