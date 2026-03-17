@@ -391,11 +391,11 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "79.67%",
+    "uptimeDay": "84.66%",
     "uptimeWeek": "85.49%",
-    "uptimeMonth": "87.71%",
+    "uptimeMonth": "87.74%",
     "uptimeYear": "98.98%",
     "time": 1537,
     "timeDay": 1938,
@@ -427,7 +427,7 @@
       "2026-02-24": 139,
       "2026-02-23": 184,
       "2026-02-22": 118,
-      "2026-02-21": 156
+      "2026-02-21": 141
     }
   },
   {
@@ -436,11 +436,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.koelbelinchen.de.ico",
     "slug": "koelbelinchen-art",
     "status": "up",
-    "uptime": "98.61%",
+    "uptime": "98.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.10%",
-    "uptimeYear": "98.61%",
+    "uptimeYear": "98.62%",
     "time": 1497,
     "timeDay": 1941,
     "timeWeek": 1618,
