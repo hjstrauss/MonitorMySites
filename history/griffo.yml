@@ -1,7 +1,7 @@
 url: https://www.griffo.de
-status: up
-code: 200
-responseTime: 1271
-lastUpdated: 2026-05-04T23:39:40.652Z
+status: down
+code: 500
+responseTime: 979
+lastUpdated: 2026-05-05T20:46:55.752Z
 startTime: 2024-01-18T08:43:59.614Z
 generator: Upptime <https://github.com/upptime/upptime>
