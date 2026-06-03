@@ -6,8 +6,8 @@
     "slug": "hj-strauss",
     "status": "up",
     "uptime": "98.00%",
-    "uptimeDay": "47.83%",
-    "uptimeWeek": "6.83%",
+    "uptimeDay": "60.16%",
+    "uptimeWeek": "8.59%",
     "uptimeMonth": "51.14%",
     "uptimeYear": "95.26%",
     "time": 1596,
@@ -121,8 +121,8 @@
     "slug": "reime-ohne-sinn-und-verstand",
     "status": "up",
     "uptime": "98.01%",
-    "uptimeDay": "48.16%",
-    "uptimeWeek": "6.88%",
+    "uptimeDay": "60.50%",
+    "uptimeWeek": "8.64%",
     "uptimeMonth": "51.21%",
     "uptimeYear": "95.27%",
     "time": 1668,
@@ -236,9 +236,9 @@
     "slug": "griffo",
     "status": "up",
     "uptime": "98.01%",
-    "uptimeDay": "48.50%",
-    "uptimeWeek": "6.93%",
-    "uptimeMonth": "51.28%",
+    "uptimeDay": "61.60%",
+    "uptimeWeek": "8.80%",
+    "uptimeMonth": "51.30%",
     "uptimeYear": "95.28%",
     "time": 1432,
     "timeDay": 1308,
@@ -246,6 +246,7 @@
     "timeMonth": 1678,
     "timeYear": 1451,
     "dailyMinutesDown": {
+      "2025-11-11": 20,
       "2025-11-12": 40,
       "2025-11-13": 57,
       "2025-11-14": 26,
@@ -342,8 +343,7 @@
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
-      "2026-05-19": 1440,
-      "2026-06-03": 11
+      "2026-05-19": 1440
     }
   },
   {
@@ -353,9 +353,9 @@
     "slug": "opa-hansi",
     "status": "up",
     "uptime": "97.56%",
-    "uptimeDay": "48.83%",
-    "uptimeWeek": "6.98%",
-    "uptimeMonth": "51.63%",
+    "uptimeDay": "61.60%",
+    "uptimeWeek": "8.80%",
+    "uptimeMonth": "51.64%",
     "uptimeYear": "95.32%",
     "time": 816,
     "timeDay": 567,
@@ -363,6 +363,7 @@
     "timeMonth": 864,
     "timeYear": 820,
     "dailyMinutesDown": {
+      "2025-10-30": 17,
       "2025-11-05": 23,
       "2025-11-09": 19,
       "2025-11-11": 19,
@@ -458,8 +459,7 @@
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
-      "2026-05-19": 1440,
-      "2026-06-03": 6
+      "2026-05-19": 1440
     }
   },
   {
@@ -535,11 +535,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.koelbelinchen.de.ico",
     "slug": "koelbelinchen-art",
     "status": "up",
-    "uptime": "86.84%",
-    "uptimeDay": "48.84%",
-    "uptimeWeek": "6.98%",
+    "uptime": "86.85%",
+    "uptimeDay": "61.28%",
+    "uptimeWeek": "8.75%",
     "uptimeMonth": "51.42%",
-    "uptimeYear": "86.84%",
+    "uptimeYear": "86.85%",
     "time": 1570,
     "timeDay": 1207,
     "timeWeek": 1422,
@@ -590,8 +590,7 @@
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
-      "2026-05-19": 1437,
-      "2026-06-03": 1
+      "2026-05-19": 1437
     }
   }
 ]
