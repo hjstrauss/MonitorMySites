@@ -4,19 +4,18 @@
     "url": "https://www.hjstrauss.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.hjstrauss.de.ico",
     "slug": "hj-strauss",
-    "status": "up",
+    "status": "down",
     "uptime": "97.96%",
-    "uptimeDay": "85.04%",
-    "uptimeWeek": "94.69%",
-    "uptimeMonth": "49.57%",
+    "uptimeDay": "83.66%",
+    "uptimeWeek": "94.61%",
+    "uptimeMonth": "49.53%",
     "uptimeYear": "95.09%",
-    "time": 1582,
+    "time": 1581,
     "timeDay": 1404,
-    "timeWeek": 1349,
+    "timeWeek": 1401,
     "timeMonth": 1486,
     "timeYear": 1524,
     "dailyMinutesDown": {
-      "2025-11-22": 27,
       "2025-11-23": 86,
       "2025-11-24": 56,
       "2025-11-26": 18,
@@ -110,7 +109,8 @@
       "2026-06-07": 105,
       "2026-06-08": 13,
       "2026-06-10": 308,
-      "2026-06-14": 215
+      "2026-06-14": 215,
+      "2026-06-15": 20
     }
   },
   {
@@ -118,19 +118,18 @@
     "url": "https://www.reimeohnesinnundverstand.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.reimeohnesinnundverstand.de.ico",
     "slug": "reime-ohne-sinn-und-verstand",
-    "status": "up",
+    "status": "down",
     "uptime": "97.99%",
-    "uptimeDay": "85.37%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "50.36%",
+    "uptimeDay": "84.33%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "50.33%",
     "uptimeYear": "95.16%",
-    "time": 1627,
+    "time": 1628,
     "timeDay": 1350,
-    "timeWeek": 1455,
+    "timeWeek": 1482,
     "timeMonth": 1519,
     "timeYear": 1476,
     "dailyMinutesDown": {
-      "2025-11-17": 32,
       "2025-11-18": 21,
       "2025-11-22": 26,
       "2025-11-23": 84,
@@ -225,7 +224,8 @@
       "2026-06-03": 387,
       "2026-06-07": 95,
       "2026-06-08": 13,
-      "2026-06-14": 211
+      "2026-06-14": 211,
+      "2026-06-15": 15
     }
   },
   {
@@ -233,19 +233,18 @@
     "url": "https://www.griffo.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.griffo.de.ico",
     "slug": "griffo",
-    "status": "up",
-    "uptime": "97.99%",
-    "uptimeDay": "85.71%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "50.50%",
-    "uptimeYear": "95.17%",
+    "status": "down",
+    "uptime": "98.00%",
+    "uptimeDay": "85.00%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "50.48%",
+    "uptimeYear": "95.18%",
     "time": 1436,
     "timeDay": 1426,
-    "timeWeek": 1432,
+    "timeWeek": 1434,
     "timeMonth": 1542,
     "timeYear": 1456,
     "dailyMinutesDown": {
-      "2025-11-13": 35,
       "2025-11-14": 26,
       "2025-11-15": 32,
       "2025-11-17": 32,
@@ -343,7 +342,8 @@
       "2026-05-19": 1440,
       "2026-06-03": 361,
       "2026-06-07": 87,
-      "2026-06-14": 206
+      "2026-06-14": 206,
+      "2026-06-15": 10
     }
   },
   {
@@ -351,19 +351,18 @@
     "url": "https://www.opahansi.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.opahansi.de.ico",
     "slug": "opa-hansi",
-    "status": "up",
+    "status": "down",
     "uptime": "97.52%",
-    "uptimeDay": "86.04%",
-    "uptimeWeek": "95.09%",
-    "uptimeMonth": "49.90%",
-    "uptimeYear": "95.16%",
+    "uptimeDay": "85.67%",
+    "uptimeWeek": "95.04%",
+    "uptimeMonth": "49.88%",
+    "uptimeYear": "95.17%",
     "time": 824,
     "timeDay": 658,
-    "timeWeek": 1274,
+    "timeWeek": 1339,
     "timeMonth": 977,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2025-11-12": 19,
       "2025-11-13": 56,
       "2025-11-14": 26,
       "2025-11-15": 30,
@@ -459,7 +458,8 @@
       "2026-06-03": 352,
       "2026-06-07": 82,
       "2026-06-10": 294,
-      "2026-06-14": 201
+      "2026-06-14": 201,
+      "2026-06-15": 5
     }
   },
   {
@@ -469,13 +469,13 @@
     "slug": "weilemer-schuetzen",
     "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "67.44%",
-    "uptimeWeek": "79.08%",
-    "uptimeMonth": "77.30%",
-    "uptimeYear": "97.45%",
+    "uptimeDay": "65.63%",
+    "uptimeWeek": "78.94%",
+    "uptimeMonth": "77.24%",
+    "uptimeYear": "97.44%",
     "time": 1554,
     "timeDay": 1580,
-    "timeWeek": 1695,
+    "timeWeek": 1689,
     "timeMonth": 1993,
     "timeYear": 1551,
     "dailyMinutesDown": {
@@ -528,7 +528,7 @@
       "2026-06-12": 197,
       "2026-06-13": 205,
       "2026-06-14": 469,
-      "2026-06-15": 0
+      "2026-06-15": 26
     }
   },
   {
@@ -536,15 +536,15 @@
     "url": "https://www.koelbelinchen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.koelbelinchen.de.ico",
     "slug": "koelbelinchen-art",
-    "status": "up",
+    "status": "down",
     "uptime": "87.57%",
-    "uptimeDay": "86.38%",
+    "uptimeDay": "86.34%",
     "uptimeWeek": "95.19%",
     "uptimeMonth": "49.97%",
     "uptimeYear": "87.57%",
     "time": 1605,
     "timeDay": 1390,
-    "timeWeek": 1967,
+    "timeWeek": 2064,
     "timeMonth": 1767,
     "timeYear": 1605,
     "dailyMinutesDown": {
@@ -596,7 +596,8 @@
       "2026-06-03": 338,
       "2026-06-07": 78,
       "2026-06-10": 289,
-      "2026-06-14": 196
+      "2026-06-14": 196,
+      "2026-06-15": 1
     }
   }
 ]
