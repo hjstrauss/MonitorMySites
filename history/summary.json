@@ -474,10 +474,10 @@
     "slug": "weilemer-schuetzen",
     "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "90.76%",
-    "uptimeMonth": "92.17%",
-    "uptimeYear": "98.30%",
+    "uptimeDay": "95.64%",
+    "uptimeWeek": "90.14%",
+    "uptimeMonth": "92.03%",
+    "uptimeYear": "98.29%",
     "time": 1695,
     "timeDay": 2129,
     "timeWeek": 1993,
@@ -536,7 +536,7 @@
       "2026-10-06": 294,
       "2026-10-07": 231,
       "2026-10-11": 407,
-      "2026-10-13": 0
+      "2026-10-13": 63
     }
   },
   {
@@ -545,11 +545,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.koelbelinchen.de.ico",
     "slug": "koelbelinchen-art",
     "status": "up",
-    "uptime": "93.10%",
+    "uptime": "93.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "93.10%",
+    "uptimeYear": "93.11%",
     "time": 1605,
     "timeDay": 1790,
     "timeWeek": 1477,
