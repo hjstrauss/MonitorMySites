@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hjstrauss.de.ico",
     "slug": "hj-strauss",
     "status": "up",
-    "uptime": "98.10%",
+    "uptime": "98.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -472,16 +472,16 @@
     "url": "https://www.weilemer-schuetzen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.weilemer-schuetzen.de.ico",
     "slug": "weilemer-schuetzen",
-    "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "97.21%",
-    "uptimeWeek": "91.64%",
-    "uptimeMonth": "91.65%",
-    "uptimeYear": "98.20%",
+    "status": "up",
+    "uptime": "99.19%",
+    "uptimeDay": "74.98%",
+    "uptimeWeek": "90.91%",
+    "uptimeMonth": "91.27%",
+    "uptimeYear": "98.14%",
     "time": 1719,
-    "timeDay": 2058,
-    "timeWeek": 2311,
-    "timeMonth": 2251,
+    "timeDay": 2025,
+    "timeWeek": 2262,
+    "timeMonth": 2245,
     "timeYear": 1729,
     "dailyMinutesDown": {
       "2026-08-01": 46,
@@ -537,7 +537,7 @@
       "2026-10-13": 454,
       "2026-10-15": 284,
       "2026-10-16": 272,
-      "2026-10-20": 40
+      "2026-10-20": 361
     }
   },
   {
