@@ -474,10 +474,10 @@
     "slug": "weilemer-schuetzen",
     "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "93.90%",
-    "uptimeMonth": "88.11%",
-    "uptimeYear": "97.44%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "93.16%",
+    "uptimeMonth": "87.93%",
+    "uptimeYear": "97.42%",
     "time": 1782,
     "timeDay": 0,
     "timeWeek": 2103,
@@ -547,7 +547,7 @@
       "2026-11-12": 249,
       "2026-11-15": 14,
       "2026-11-14": 199,
-      "2026-11-17": 0
+      "2026-11-17": 75
     }
   },
   {
